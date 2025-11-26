@@ -1,0 +1,2675 @@
+Age,Gender,family_history,treatment,benefits,care_options,anonymity,work_treatment_interfere,leave,coworkers,supervisor
+37,f,No,1,Yes,Not sure,Yes,Often,Somewhat easy,Some of them,Yes
+44,m,No,0,Don't know,No,Don't know,Rarely,Don't know,No,No
+32,m,No,0,No,No,Don't know,Rarely,Somewhat difficult,Yes,Yes
+31,m,Yes,1,No,Yes,No,Often,Somewhat difficult,Some of them,No
+31,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,Yes
+33,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Don't know,Yes,Yes
+35,f,Yes,1,No,No,No,Sometimes,Somewhat difficult,Some of them,No
+39,m,No,0,No,Yes,Yes,Never,Don't know,No,No
+42,f,Yes,1,Yes,Yes,No,Sometimes,Very difficult,Yes,Yes
+23,m,No,0,Don't know,No,Don't know,Never,Don't know,Yes,Yes
+31,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+29,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+42,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+36,m,Yes,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+27,m,No,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Some of them,Some of them
+29,f,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Yes,Some of them
+23,m,No,1,Don't know,No,Don't know,Sometimes,Very easy,Some of them,No
+32,m,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Yes
+46,m,Yes,0,Yes,Not sure,Yes,Sometimes,Very easy,Yes,Yes
+36,m,Yes,0,No,No,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+29,m,Yes,1,Yes,Yes,No,Sometimes,Somewhat difficult,Some of them,Some of them
+31,m,No,0,No,No,Yes,Never,Somewhat difficult,Some of them,Some of them
+46,m,No,1,Yes,Yes,Don't know,Often,Don't know,Some of them,Yes
+41,m,No,1,Don't know,No,Don't know,Never,Don't know,No,No
+33,m,Yes,1,Yes,Not sure,Yes,Rarely,Don't know,Yes,Yes
+35,m,Yes,1,Yes,Yes,No,Sometimes,Very easy,Some of them,Yes
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+35,f,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Yes,Yes
+34,m,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,No
+37,m,No,0,No,No,Don't know,Sometimes,Very difficult,Some of them,No
+32,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Some of them
+31,m,Yes,0,No,Yes,Don't know,Rarely,Somewhat difficult,No,No
+30,m,Yes,1,Don't know,No,Yes,Sometimes,Somewhat easy,Some of them,Yes
+42,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Some of them
+40,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+27,m,No,1,No,Yes,Don't know,Rarely,Very easy,Yes,Yes
+29,m,No,0,No,No,Don't know,Rarely,Very easy,Some of them,No
+38,m,No,0,No,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+50,m,No,0,Yes,Yes,Don't know,Not applicable to me,Don't know,Some of them,Yes
+35,m,No,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+24,m,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,No
+35,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,Some of them,No
+27,m,Yes,1,No,Yes,Yes,Sometimes,Very difficult,Some of them,No
+18,m,No,0,No,Not sure,Don't know,Often,Somewhat difficult,No,Some of them
+30,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+38,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+28,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+34,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+26,m,No,0,No,Yes,Don't know,Sometimes,Don't know,Yes,Yes
+30,m,Yes,1,Yes,No,Don't know,Rarely,Don't know,Some of them,Yes
+22,m,Yes,1,No,Yes,Yes,Often,Very difficult,No,No
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+31,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+32,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+28,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+27,m,Yes,1,Yes,Yes,Yes,Rarely,Don't know,No,No
+32,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+24,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+26,m,No,0,No,No,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+33,m,Yes,1,Don't know,No,No,Often,Somewhat difficult,No,No
+44,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,No
+26,f,No,1,Don't know,Not sure,Yes,Sometimes,Very easy,Yes,Yes
+27,m,No,0,Yes,Not sure,Don't know,Never,Somewhat easy,Yes,Yes
+26,m,No,0,No,No,Don't know,Not applicable to me,Very easy,No,No
+35,m,No,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+40,m,Yes,0,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+23,f,Yes,1,No,Not sure,Don't know,Often,Very easy,Some of them,Yes
+36,m,No,0,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,f,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+34,m,No,0,No,No,Don't know,Rarely,Don't know,Some of them,No
+28,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Some of them
+34,m,No,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Some of them,Yes
+23,other,No,0,Yes,Yes,Yes,Rarely,Somewhat difficult,Yes,Yes
+38,m,No,0,No,No,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+33,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+19,m,No,0,No,Yes,No,Not applicable to me,Somewhat difficult,No,No
+25,m,No,0,Yes,Yes,Don't know,Not applicable to me,Don't know,Yes,Yes
+31,m,Yes,0,No,No,Yes,Sometimes,Somewhat difficult,Yes,Yes
+32,m,Yes,1,No,No,Don't know,Sometimes,Somewhat difficult,Some of them,No
+28,m,No,0,Don't know,No,Don't know,Never,Very easy,Some of them,Some of them
+38,m,Yes,0,Yes,Yes,Don't know,Sometimes,Don't know,Yes,Some of them
+23,m,No,0,Yes,Not sure,Don't know,Never,Very easy,Some of them,Yes
+30,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Yes
+27,f,No,1,Yes,Yes,Yes,Often,Very easy,Some of them,Yes
+33,m,Yes,0,No,No,Don't know,Never,Don't know,No,No
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+39,m,No,1,No,No,Don't know,Often,Very difficult,Some of them,No
+34,f,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+29,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+32,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+31,m,No,0,Yes,Yes,Yes,Never,Somewhat easy,Some of them,Yes
+40,m,No,1,No,Yes,Yes,Sometimes,Very difficult,Yes,Yes
+34,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Some of them,No
+18,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+25,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Yes
+29,m,No,0,Don't know,No,Don't know,Never,Don't know,Yes,Yes
+24,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Some of them,No
+31,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+33,m,No,1,No,Yes,Don't know,Sometimes,Somewhat easy,Some of them,No
+30,m,No,1,No,Yes,Yes,Often,Somewhat easy,Yes,Yes
+26,f,Yes,1,No,Yes,No,Sometimes,Very difficult,No,No
+44,f,No,0,Yes,Not sure,Don't know,Never,Don't know,No,Some of them
+25,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,Some of them,Yes
+33,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+29,m,No,0,Yes,Not sure,Don't know,Never,Somewhat easy,Some of them,Yes
+35,m,Yes,0,Yes,Not sure,Yes,Rarely,Somewhat easy,Some of them,Yes
+35,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+28,m,Yes,1,No,No,No,Rarely,Don't know,Yes,Yes
+34,m,Yes,0,Yes,No,Don't know,Never,Don't know,No,No
+32,m,No,1,Yes,No,Yes,Sometimes,Somewhat difficult,Some of them,Yes
+22,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+28,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+45,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+32,m,No,0,Yes,Yes,Don't know,Never,Don't know,Some of them,Some of them
+28,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+26,m,No,0,Don't know,No,Don't know,Never,Very easy,Some of them,Some of them
+21,m,No,0,No,Yes,Yes,Often,Very difficult,Some of them,Yes
+27,m,No,0,Yes,Yes,Yes,Rarely,Very easy,Some of them,Yes
+18,m,No,1,No,No,Yes,Rarely,Very easy,Some of them,No
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+29,m,No,0,Yes,Yes,Don't know,Never,Don't know,No,No
+25,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Some of them,Yes
+33,m,Yes,1,Don't know,No,Yes,Sometimes,Very easy,Yes,Yes
+36,m,No,0,Yes,No,Yes,Often,Don't know,No,No
+27,m,No,1,Yes,Not sure,Don't know,Never,Very difficult,Some of them,Yes
+27,m,Yes,0,Yes,No,Yes,Never,Don't know,Some of them,No
+27,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+32,m,No,1,Yes,Yes,Yes,Rarely,Don't know,No,Yes
+31,m,Yes,0,No,No,Don't know,Sometimes,Somewhat easy,No,No
+19,m,No,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,No
+33,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very easy,Yes,Some of them
+32,m,No,0,No,Yes,Don't know,Rarely,Very difficult,Yes,Some of them
+27,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+38,m,No,0,No,Yes,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+24,m,No,1,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+39,m,No,0,No,No,Don't know,Never,Don't know,No,No
+28,m,No,0,Don't know,No,Yes,Never,Very easy,Some of them,Yes
+39,m,No,1,Yes,Not sure,Don't know,Often,Somewhat easy,Yes,Yes
+29,f,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Some of them,No
+22,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+38,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+37,m,No,1,No,Yes,Yes,Sometimes,Very difficult,Some of them,No
+35,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,No
+30,f,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+37,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Some of them,Yes
+24,m,No,0,No,No,Yes,Never,Don't know,No,Some of them
+23,m,No,0,No,No,No,Sometimes,Somewhat easy,No,No
+30,m,No,1,No,Yes,Don't know,Rarely,Somewhat easy,Some of them,No
+29,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,Some of them
+19,m,Yes,0,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+32,m,Yes,0,Don't know,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+28,m,No,0,No,No,Don't know,Rarely,Don't know,Yes,Yes
+36,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+37,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat difficult,Some of them,No
+25,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+27,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,No,Some of them
+26,m,No,0,Don't know,Not sure,Don't know,Often,Don't know,Some of them,Yes
+27,m,No,1,No,Yes,Don't know,Rarely,Somewhat difficult,Some of them,Yes
+25,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very easy,Some of them,No
+36,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+25,f,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,Some of them
+26,m,Yes,0,Don't know,No,Don't know,Rarely,Don't know,Some of them,Yes
+33,f,Yes,1,No,Yes,Yes,Sometimes,Very difficult,Some of them,Yes
+27,f,Yes,0,No,Yes,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+34,m,No,0,No,No,Don't know,Never,Very easy,Some of them,Some of them
+42,m,No,0,No,Yes,Don't know,Not applicable to me,Very difficult,Yes,Yes
+23,m,Yes,0,No,No,Don't know,Sometimes,Very difficult,No,No
+24,m,No,0,Don't know,Not sure,Don't know,Rarely,Very easy,Some of them,Some of them
+26,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+31,m,No,1,Don't know,No,Don't know,Often,Don't know,Some of them,Yes
+22,m,No,1,Don't know,Not sure,Don't know,Never,Very difficult,No,No
+23,f,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+34,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+31,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,No,Some of them
+28,m,No,0,No,Not sure,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+32,f,No,1,Yes,Not sure,Yes,Often,Very easy,Yes,Yes
+45,f,No,1,Yes,No,Yes,Sometimes,Somewhat difficult,Yes,Yes
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+29,m,No,0,No,No,No,Never,Don't know,No,Yes
+26,f,No,0,No,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+28,f,No,0,Don't know,No,Yes,Never,Somewhat easy,Yes,Yes
+45,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+43,m,Yes,1,Yes,Not sure,Don't know,Often,Very difficult,No,No
+37,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,No
+24,m,No,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+26,m,No,0,No,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,No
+23,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+35,f,Yes,1,Yes,Not sure,Yes,Never,Somewhat easy,No,No
+38,f,Yes,1,No,Yes,Yes,Often,Somewhat easy,Some of them,Some of them
+28,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat easy,Some of them,No
+28,m,No,0,No,No,Don't know,Sometimes,Don't know,No,No
+35,m,No,1,No,No,Yes,Rarely,Don't know,Some of them,Yes
+32,f,No,0,No,No,Don't know,Sometimes,Very difficult,Some of them,No
+31,m,Yes,0,No,No,Don't know,Never,Somewhat easy,Some of them,Some of them
+35,f,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,No
+26,m,No,0,Yes,No,Yes,Rarely,Somewhat easy,Some of them,Yes
+27,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+28,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+27,f,Yes,1,Yes,No,Don't know,Sometimes,Very easy,Some of them,Some of them
+34,f,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+41,m,No,1,No,Not sure,Don't know,Often,Very difficult,Some of them,Some of them
+37,m,No,0,No,Yes,Don't know,Sometimes,Very difficult,No,No
+34,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+32,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+21,m,No,1,No,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+30,m,No,1,No,Yes,Yes,Often,Somewhat easy,Yes,Yes
+24,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+26,m,No,0,No,No,No,Not applicable to me,Very easy,No,No
+40,f,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+37,m,Yes,0,No,No,Don't know,Sometimes,Don't know,Some of them,Yes
+26,m,No,1,No,No,Don't know,Often,Don't know,No,No
+32,f,Yes,1,Don't know,No,No,Sometimes,Don't know,Some of them,Some of them
+32,f,No,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+27,f,Yes,1,No,No,Don't know,Sometimes,Very difficult,Some of them,No
+30,m,No,1,Yes,Yes,Yes,Often,Very difficult,Some of them,Yes
+31,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Some of them
+29,f,No,1,Yes,No,Don't know,Never,Somewhat difficult,Some of them,No
+41,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Very easy,No,Some of them
+34,f,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+28,m,No,0,Don't know,No,Don't know,Rarely,Don't know,Some of them,Some of them
+28,m,No,1,No,Yes,Yes,Sometimes,Very difficult,No,Some of them
+23,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,No,Yes
+24,m,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Yes,Yes
+32,m,No,0,No,Yes,Don't know,Rarely,Very difficult,Some of them,Yes
+34,m,No,0,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+24,m,No,0,Yes,Not sure,Don't know,Never,Very easy,Some of them,No
+26,m,No,1,No,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+36,m,No,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+41,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,No
+38,m,No,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,No,No
+38,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+30,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+25,m,No,0,No,No,Don't know,Never,Somewhat difficult,No,No
+37,m,Yes,1,Yes,Yes,Don't know,Often,Don't know,Some of them,Some of them
+34,m,Yes,0,No,No,Yes,Not applicable to me,Somewhat difficult,Some of them,Yes
+37,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+28,f,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+22,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+34,m,Yes,1,No,No,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+33,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+25,m,No,0,No,No,Yes,Not applicable to me,Somewhat difficult,Some of them,Yes
+27,m,No,0,Yes,Yes,Yes,Never,Somewhat easy,Some of them,Yes
+40,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+21,m,No,1,Don't know,No,Don't know,Often,Don't know,No,No
+29,m,No,0,No,No,Yes,Not applicable to me,Very easy,Yes,Yes
+32,m,Yes,1,No,No,Don't know,Sometimes,Don't know,Yes,Yes
+29,f,Yes,1,Yes,Yes,Yes,Rarely,Don't know,Some of them,No
+23,m,Yes,1,Don't know,No,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+28,m,Yes,0,Yes,No,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+31,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Some of them,Yes
+27,m,No,0,Don't know,Not sure,No,Not applicable to me,Very easy,Yes,Yes
+24,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Yes,Yes
+29,m,No,0,No,No,Don't know,Often,Somewhat difficult,No,No
+23,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+42,m,No,0,No,Yes,Don't know,Never,Somewhat easy,Some of them,Yes
+24,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+25,m,Yes,1,No,Yes,No,Often,Very difficult,No,No
+27,f,No,1,Yes,No,Yes,Rarely,Don't know,Yes,No
+27,m,No,0,No,Yes,No,Sometimes,Very difficult,Some of them,Some of them
+30,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,Yes,Yes
+29,m,Yes,1,No,Yes,Yes,Rarely,Very difficult,Some of them,Some of them
+43,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+32,m,No,0,No,Yes,Don't know,Not applicable to me,Very easy,Some of them,Yes
+41,m,No,1,Yes,Yes,Don't know,Sometimes,Very easy,Yes,Yes
+32,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very easy,Yes,Some of them
+37,f,Yes,1,Yes,Yes,Yes,Often,Don't know,Some of them,Some of them
+32,m,No,0,No,No,Don't know,Never,Very easy,Yes,Yes
+30,m,No,0,No,No,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+23,f,Yes,1,Yes,No,Yes,Never,Don't know,Some of them,Yes
+30,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+34,m,No,0,No,Yes,Don't know,Sometimes,Somewhat easy,Yes,Some of them
+38,m,No,1,Yes,No,Don't know,Rarely,Don't know,No,No
+33,m,No,0,Yes,No,Yes,Not applicable to me,Don't know,Some of them,Yes
+34,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,No
+28,m,No,0,No,Yes,Don't know,Sometimes,Somewhat easy,No,Some of them
+28,m,No,1,Yes,Yes,Don't know,Rarely,Very easy,Some of them,Some of them
+23,m,Yes,0,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+22,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+27,m,No,0,No,No,Yes,Never,Don't know,No,No
+18,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+35,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,No,Some of them
+25,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+27,m,Yes,1,No,No,Yes,Sometimes,Somewhat easy,Yes,Yes
+26,f,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+18,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+38,f,No,1,No,Yes,Don't know,Sometimes,Don't know,Some of them,No
+26,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Some of them,No
+30,m,No,0,No,No,No,Never,Somewhat easy,Yes,Yes
+35,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Some of them
+45,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Some of them
+32,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,Some of them
+56,m,No,1,Yes,Not sure,Don't know,Never,Don't know,Yes,Some of them
+24,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+30,f,Yes,1,Yes,Yes,Don't know,Sometimes,Very easy,Yes,Yes
+60,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+33,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,No,No
+37,m,No,0,Yes,Yes,Don't know,Never,Don't know,Some of them,Yes
+23,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,f,No,1,Yes,Not sure,Yes,Sometimes,Somewhat easy,Yes,Yes
+26,m,No,0,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Yes
+28,f,Yes,1,Yes,Yes,Yes,Often,Somewhat easy,Some of them,Yes
+37,f,No,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Some of them,Yes
+26,m,Yes,1,Yes,No,Don't know,Often,Don't know,Some of them,Some of them
+30,other,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Some of them,Yes
+26,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+25,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+27,m,No,0,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+25,m,No,1,Don't know,No,Don't know,Often,Somewhat difficult,No,No
+35,m,No,1,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Yes
+36,m,No,1,No,Yes,Don't know,Never,Somewhat easy,Some of them,Yes
+26,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,No,No
+27,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+25,m,No,0,Yes,Yes,Yes,Never,Very easy,Some of them,Yes
+22,f,Yes,1,Yes,Yes,Yes,Often,Somewhat easy,No,Some of them
+29,m,No,0,No,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+41,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,Yes
+29,m,No,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+32,m,No,0,Yes,Not sure,Yes,Never,Somewhat easy,Some of them,Yes
+24,f,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+25,m,No,1,Yes,No,Don't know,Rarely,Don't know,No,No
+25,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+30,f,No,0,Yes,Yes,Yes,Never,Somewhat easy,No,Some of them
+25,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Yes,Yes
+30,m,No,0,No,Yes,Don't know,Never,Don't know,Some of them,Some of them
+33,m,Yes,1,No,No,Don't know,Rarely,Somewhat difficult,No,No
+24,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Some of them,Some of them
+25,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+31,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,No,No
+45,m,No,1,No,No,Don't know,Often,Very difficult,No,No
+29,m,No,0,No,Yes,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+46,m,No,0,Yes,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+30,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+29,f,No,0,Yes,Not sure,Don't know,Sometimes,Very easy,Some of them,Some of them
+24,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,No
+29,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+33,f,Yes,0,No,Yes,Don't know,Sometimes,Very difficult,Some of them,Some of them
+27,m,No,0,Don't know,Not sure,Don't know,Sometimes,Very easy,No,No
+36,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+33,m,No,0,Don't know,No,Don't know,Rarely,Don't know,No,No
+25,f,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+23,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Yes,Yes
+54,m,Yes,1,Don't know,No,Don't know,Never,Don't know,No,Yes
+22,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+25,other,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+29,m,No,0,Don't know,No,Don't know,Often,Don't know,Yes,Yes
+27,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+30,m,No,0,No,No,Don't know,Never,Very easy,Some of them,Yes
+26,m,Yes,1,Yes,Not sure,Don't know,Often,Don't know,Some of them,No
+25,f,Yes,0,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+31,m,No,1,No,Yes,Yes,Sometimes,Don't know,Some of them,No
+33,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+34,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+34,m,No,1,No,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+29,m,No,0,No,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+33,f,No,0,No,No,Don't know,Not applicable to me,Somewhat difficult,Some of them,Some of them
+34,m,Yes,1,No,No,Don't know,Rarely,Somewhat difficult,Yes,Yes
+26,m,Yes,1,No,No,No,Rarely,Don't know,Some of them,Yes
+32,m,Yes,1,Yes,Yes,Yes,Rarely,Don't know,Some of them,Yes
+28,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+35,m,Yes,0,Yes,No,Yes,Not applicable to me,Very easy,Some of them,Yes
+36,m,Yes,1,No,Yes,Yes,Often,Very easy,Some of them,Some of them
+21,m,Yes,1,Yes,No,Yes,Rarely,Don't know,Yes,Yes
+21,m,No,1,Don't know,Not sure,No,Sometimes,Very easy,Some of them,No
+22,f,No,0,Yes,No,Yes,Not applicable to me,Somewhat easy,No,Some of them
+41,m,Yes,1,Yes,No,Don't know,Often,Somewhat difficult,Yes,Some of them
+55,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+32,f,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+21,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Some of them,No
+45,m,No,1,Yes,Yes,Don't know,Never,Don't know,No,Some of them
+27,f,No,1,Yes,Yes,Yes,Rarely,Don't know,No,No
+25,f,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+34,f,Yes,1,Yes,Yes,Yes,Rarely,Very difficult,Some of them,Some of them
+26,f,Yes,1,Yes,Yes,Yes,Never,Don't know,No,No
+41,m,No,1,Yes,Not sure,Don't know,Never,Somewhat easy,Some of them,Some of them
+27,m,No,1,Yes,No,Yes,Rarely,Don't know,Some of them,Yes
+31,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Yes,Yes
+25,m,Yes,1,No,No,Yes,Often,Somewhat easy,Yes,Yes
+26,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+27,f,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,No,Yes
+42,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+29,other,Yes,1,Yes,Yes,Don't know,Sometimes,Very difficult,Some of them,No
+25,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,No
+33,f,Yes,1,Yes,Yes,Yes,Rarely,Don't know,Some of them,No
+40,f,Yes,1,Yes,No,Don't know,Rarely,Somewhat easy,No,No
+31,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Some of them,No
+26,m,Yes,1,Don't know,No,Don't know,Often,Very easy,Yes,Yes
+24,f,Yes,0,No,No,No,Not applicable to me,Very difficult,No,No
+29,m,No,0,Yes,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+48,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,No
+35,m,No,0,No,No,Don't know,Sometimes,Very difficult,Some of them,Yes
+32,f,No,0,Don't know,Not sure,Don't know,Never,Don't know,No,Some of them
+29,m,No,1,Don't know,Not sure,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+26,m,Yes,1,Yes,Yes,Don't know,Often,Somewhat difficult,Some of them,Yes
+28,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+23,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+35,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very difficult,Some of them,Some of them
+29,m,Yes,1,Don't know,No,Don't know,Sometimes,Very easy,Some of them,Some of them
+26,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+33,m,Yes,1,Yes,Yes,Don't know,Never,Don't know,Yes,Some of them
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+22,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Yes,Yes
+30,f,Yes,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+33,m,Yes,1,Yes,Yes,Don't know,Often,Somewhat easy,No,No
+31,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Very difficult,No,No
+21,m,Yes,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+31,other,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+26,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+30,m,Yes,0,Don't know,No,Don't know,Often,Somewhat easy,Some of them,Yes
+30,other,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+23,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+34,m,No,0,No,No,Don't know,Never,Somewhat easy,Yes,Yes
+55,m,Yes,1,No,Yes,Don't know,Sometimes,Don't know,No,No
+28,m,Yes,1,Yes,No,Yes,Rarely,Very easy,Yes,Yes
+26,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+28,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very easy,Yes,Yes
+32,m,Yes,1,No,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+28,f,No,1,Yes,Yes,Don't know,Rarely,Don't know,No,No
+21,m,No,0,Don't know,Not sure,Yes,Sometimes,Don't know,Some of them,Some of them
+24,m,Yes,1,No,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+26,f,No,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+23,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Yes,No
+24,f,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+28,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Some of them,Yes
+24,f,Yes,1,No,No,Don't know,Rarely,Very easy,No,Some of them
+33,m,No,1,No,No,Yes,Often,Somewhat easy,Some of them,Some of them
+34,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Yes,Yes
+27,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+28,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+26,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+20,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Some of them,Yes
+23,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+29,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+26,m,Yes,0,No,No,Don't know,Sometimes,Don't know,No,No
+36,m,No,0,Yes,No,Don't know,Rarely,Somewhat easy,No,No
+41,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+33,f,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+23,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+39,m,Yes,0,Yes,No,Don't know,Often,Don't know,Some of them,Some of them
+34,m,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+26,f,No,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+24,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,Yes
+37,m,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,Some of them
+43,m,Yes,1,Yes,Yes,Yes,Often,Very easy,Yes,Yes
+40,other,Yes,0,Yes,Yes,Yes,Never,Don't know,No,Some of them
+30,m,Yes,1,Yes,Yes,Don't know,Often,Very difficult,Some of them,No
+34,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+27,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+36,m,No,0,Don't know,No,Yes,Sometimes,Somewhat easy,Yes,Yes
+27,m,No,0,No,Yes,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+35,m,Yes,0,Yes,No,Yes,Never,Don't know,No,No
+32,m,No,0,No,No,Don't know,Never,Don't know,Some of them,No
+37,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+29,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+33,f,No,0,Yes,Not sure,Don't know,Never,Very easy,Some of them,Yes
+28,m,No,0,No,Yes,Don't know,Sometimes,Somewhat easy,Some of them,No
+26,f,Yes,0,Don't know,Not sure,Don't know,Never,Somewhat difficult,Some of them,No
+27,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+38,m,No,1,No,No,Yes,Sometimes,Somewhat easy,Some of them,Yes
+57,m,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,Yes
+28,m,No,1,No,No,No,Sometimes,Very difficult,No,Some of them
+26,m,No,0,No,Yes,Don't know,Never,Don't know,Yes,Yes
+42,f,No,1,Yes,Yes,Yes,Rarely,Don't know,Some of them,No
+31,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+58,m,No,1,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,Yes
+29,m,No,0,Don't know,No,Don't know,Sometimes,Very difficult,No,No
+39,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+34,m,No,0,Don't know,No,Don't know,Sometimes,Very difficult,Some of them,Yes
+57,m,No,1,Yes,Not sure,Don't know,Sometimes,Don't know,No,No
+27,m,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,No
+23,m,Yes,1,Don't know,No,Don't know,Often,Don't know,Yes,Yes
+18,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,No,No
+30,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+23,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+43,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,No,No
+18,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+29,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,No
+48,m,No,0,Don't know,No,Don't know,Never,Don't know,No,No
+43,m,No,1,No,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+28,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+30,m,Yes,1,No,Yes,Yes,Often,Very easy,Yes,Yes
+26,m,No,0,No,No,Yes,Sometimes,Very easy,Some of them,Yes
+33,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Some of them
+31,m,No,0,Yes,Not sure,Yes,Not applicable to me,Don't know,No,Some of them
+30,m,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+27,m,No,0,No,No,Don't know,Not applicable to me,Somewhat difficult,Some of them,No
+24,f,Yes,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+25,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+23,f,Yes,1,Yes,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+36,m,No,1,Yes,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,No
+25,f,Yes,1,Don't know,Not sure,Yes,Often,Somewhat difficult,Some of them,No
+54,m,No,1,No,Yes,Yes,Sometimes,Very easy,Yes,Yes
+34,m,No,0,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+38,f,No,1,Yes,Yes,Yes,Not applicable to me,Don't know,No,No
+40,m,Yes,0,No,No,No,Not applicable to me,Don't know,Some of them,No
+32,m,No,0,No,Not sure,Don't know,Not applicable to me,Don't know,No,Some of them
+25,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+35,f,No,1,No,Yes,Don't know,Sometimes,Don't know,No,No
+46,m,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+42,m,No,0,Yes,No,Don't know,Never,Very difficult,Yes,Yes
+32,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Yes,Yes
+47,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very easy,Some of them,Yes
+22,m,No,0,Yes,Not sure,Yes,Not applicable to me,Don't know,Some of them,Yes
+33,f,No,1,Yes,Yes,Don't know,Sometimes,Very easy,Some of them,Some of them
+25,f,No,0,No,No,No,Sometimes,Somewhat easy,Some of them,No
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+39,m,No,0,Yes,Yes,Yes,Never,Very easy,Yes,Yes
+38,m,Yes,1,Yes,Not sure,Yes,Sometimes,Don't know,No,No
+43,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+46,m,No,1,Yes,Not sure,Yes,Rarely,Don't know,Some of them,Yes
+38,f,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+33,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Some of them
+34,m,Yes,1,No,Yes,Yes,Often,Very easy,Yes,Yes
+62,m,No,0,Yes,Yes,Don't know,Never,Don't know,Some of them,Yes
+23,f,No,0,Don't know,Not sure,Yes,Not applicable to me,Don't know,Some of them,Some of them
+35,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+25,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Don't know,No,No
+36,m,Yes,1,Don't know,Yes,Yes,Sometimes,Somewhat difficult,Some of them,Yes
+41,f,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Some of them,Some of them
+24,m,No,0,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+51,m,No,1,No,Yes,No,Sometimes,Somewhat difficult,No,No
+29,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,No,Some of them
+31,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+27,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+31,m,No,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Yes,Yes
+27,f,Yes,0,No,No,No,Sometimes,Very difficult,No,No
+23,m,No,0,Don't know,No,Don't know,Rarely,Very easy,Some of them,Yes
+21,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,No,No
+27,f,Yes,1,No,Yes,No,Sometimes,Somewhat difficult,Some of them,Some of them
+39,m,Yes,1,Yes,Yes,Don't know,Often,Somewhat easy,Some of them,Yes
+26,m,Yes,1,Don't know,No,Don't know,Never,Don't know,No,No
+27,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Some of them
+22,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+26,f,Yes,1,Don't know,No,Don't know,Often,Somewhat difficult,No,No
+31,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+32,m,No,0,Don't know,No,Don't know,Never,Don't know,Yes,Yes
+28,f,Yes,1,Yes,No,Don't know,Often,Don't know,Some of them,Some of them
+28,other,Yes,1,No,Not sure,Yes,Rarely,Somewhat difficult,Some of them,Some of them
+23,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,No,Some of them
+30,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Yes,Yes
+36,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat difficult,Some of them,Yes
+21,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Don't know,Some of them,Yes
+30,m,No,0,No,No,Don't know,Often,Somewhat easy,Some of them,Some of them
+25,f,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+32,m,No,1,No,No,Don't know,Sometimes,Very easy,Some of them,Yes
+29,f,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+21,other,No,1,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+27,f,Yes,1,No,No,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+32,f,No,1,Don't know,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+34,m,No,0,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+22,m,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+24,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+65,m,No,0,No,No,Don't know,Not applicable to me,Very easy,Some of them,No
+27,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+33,m,No,0,Don't know,Not sure,Yes,Never,Very easy,Some of them,Yes
+36,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+40,m,No,0,No,No,Don't know,Never,Somewhat difficult,Some of them,Some of them
+28,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Some of them,No
+39,m,No,1,Yes,Not sure,Yes,Sometimes,Don't know,Yes,Yes
+32,m,No,1,Yes,No,Don't know,Sometimes,Somewhat easy,Yes,Some of them
+31,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Somewhat easy,No,Some of them
+38,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+23,m,Yes,1,No,Yes,Don't know,Rarely,Don't know,Some of them,Yes
+42,m,No,1,Yes,Yes,Yes,Often,Somewhat easy,Yes,Yes
+27,f,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+26,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Yes,Yes
+50,m,No,0,No,Yes,Don't know,Never,Don't know,No,No
+37,m,Yes,0,Don't know,No,Don't know,Never,Somewhat easy,Yes,Yes
+23,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+33,m,Yes,0,Don't know,Not sure,Yes,Sometimes,Very easy,Some of them,Yes
+29,m,No,0,Yes,Yes,Yes,Never,Very difficult,Some of them,No
+34,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+41,m,Yes,1,Yes,No,Don't know,Often,Don't know,Some of them,Some of them
+50,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+29,m,No,1,Yes,Not sure,Yes,Never,Somewhat difficult,Some of them,No
+35,m,No,0,No,Yes,Yes,Never,Very easy,Some of them,Yes
+27,m,No,0,No,No,Yes,Sometimes,Don't know,Some of them,Yes
+40,f,No,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Yes,Yes
+27,m,No,1,No,No,Don't know,Often,Don't know,Some of them,No
+29,f,No,0,Yes,Yes,Yes,Never,Don't know,Some of them,Some of them
+31,m,Yes,1,No,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+43,m,No,1,No,Yes,Don't know,Sometimes,Somewhat easy,Yes,Yes
+34,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+29,m,Yes,1,Don't know,No,No,Sometimes,Somewhat difficult,Some of them,Some of them
+19,m,Yes,1,No,No,Don't know,Sometimes,Don't know,Some of them,No
+41,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+29,m,Yes,0,Yes,Yes,Don't know,Never,Don't know,Some of them,Yes
+23,m,No,0,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+24,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+31,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,No
+43,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+31,m,Yes,1,No,No,Don't know,Rarely,Somewhat difficult,Some of them,No
+29,m,Yes,0,Yes,Yes,Don't know,Often,Don't know,Some of them,Yes
+35,m,Yes,0,No,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+33,m,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat difficult,No,No
+30,f,Yes,1,No,Yes,Yes,Often,Somewhat difficult,Yes,Yes
+27,m,No,0,Yes,Not sure,Yes,Not applicable to me,Don't know,No,No
+32,m,No,0,No,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+50,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+24,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,No
+27,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+27,m,No,0,No,No,Don't know,Never,Don't know,No,No
+32,m,No,1,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+42,m,No,0,No,Yes,Don't know,Rarely,Very easy,Some of them,Yes
+37,m,No,0,Don't know,No,Don't know,Often,Don't know,Some of them,No
+30,m,No,0,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,No
+29,m,No,0,Yes,No,Don't know,Rarely,Very easy,Some of them,No
+30,m,No,1,No,Not sure,Don't know,Often,Somewhat difficult,Yes,Yes
+35,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,Some of them
+35,m,Yes,1,Yes,Yes,Yes,Rarely,Very difficult,Some of them,No
+38,m,Yes,0,No,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+22,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+24,m,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+22,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+31,f,No,1,Yes,Yes,Don't know,Often,Very easy,Some of them,Some of them
+23,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,No,No
+31,f,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+28,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,Some of them
+37,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+34,m,Yes,1,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+32,other,No,0,No,Yes,Yes,Sometimes,Very difficult,Some of them,No
+28,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+24,f,No,1,No,No,Don't know,Sometimes,Don't know,No,Some of them
+56,m,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,Some of them
+31,m,No,0,No,No,No,Sometimes,Very easy,Yes,Yes
+34,f,No,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+35,m,No,1,Don't know,No,Don't know,Rarely,Very easy,Some of them,Yes
+28,m,No,0,No,No,Don't know,Never,Somewhat easy,Some of them,Some of them
+36,m,Yes,1,No,No,Don't know,Often,Somewhat easy,Some of them,Yes
+30,m,No,1,No,No,Yes,Often,Somewhat easy,Some of them,Yes
+35,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Some of them,Yes
+49,m,Yes,1,No,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+36,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+35,m,No,0,No,No,Don't know,Not applicable to me,Very easy,Some of them,Some of them
+29,f,Yes,1,Yes,Yes,No,Sometimes,Somewhat difficult,Some of them,Some of them
+57,m,No,0,Yes,Yes,Yes,Never,Somewhat difficult,No,No
+31,f,Yes,1,Yes,No,No,Rarely,Don't know,Some of them,No
+37,m,No,0,No,No,Don't know,Never,Don't know,No,No
+25,m,Yes,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+30,m,No,0,No,No,Don't know,Sometimes,Very easy,Some of them,Some of them
+26,f,Yes,0,No,Yes,Don't know,Sometimes,Somewhat easy,Yes,Yes
+22,f,No,0,No,No,Don't know,Often,Don't know,No,Some of them
+39,m,No,0,Don't know,No,Don't know,Rarely,Don't know,Some of them,Some of them
+29,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,No,No
+54,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very easy,Some of them,Yes
+34,f,Yes,0,Don't know,No,Don't know,Never,Don't know,No,No
+32,m,No,1,Yes,Not sure,Don't know,Never,Very easy,No,No
+25,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+29,m,No,0,No,No,No,Rarely,Somewhat difficult,Some of them,No
+32,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Yes
+30,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+31,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+20,f,No,0,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,Some of them
+27,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+32,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+26,m,No,0,No,No,Don't know,Never,Somewhat difficult,Some of them,Yes
+30,m,No,0,Don't know,No,Yes,Sometimes,Very easy,Some of them,Some of them
+30,m,No,1,No,No,Don't know,Sometimes,Very difficult,Some of them,No
+22,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Some of them,Some of them
+24,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+26,m,No,0,No,No,Don't know,Never,Don't know,No,No
+43,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+26,m,No,0,No,Not sure,Don't know,Never,Somewhat difficult,Some of them,No
+23,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+26,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+26,f,Yes,0,Don't know,No,Don't know,Never,Don't know,Some of them,No
+35,m,Yes,0,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+28,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+22,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+29,f,Yes,1,Don't know,No,Don't know,Rarely,Don't know,No,No
+29,m,No,0,No,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+45,m,No,1,Yes,Not sure,Don't know,Often,Very easy,Yes,Yes
+33,m,No,1,No,No,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+38,m,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Yes
+19,other,Yes,1,Don't know,Not sure,Don't know,Often,Somewhat difficult,No,No
+29,f,No,1,Yes,Yes,Yes,Rarely,Somewhat easy,No,Yes
+21,f,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,No
+23,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+33,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,Yes
+49,m,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat easy,Some of them,Yes
+28,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+27,f,No,1,Don't know,Not sure,Yes,Sometimes,Very easy,Yes,Yes
+23,m,No,1,Yes,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+29,m,No,0,No,No,Yes,Never,Somewhat easy,Yes,Yes
+30,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,Some of them,No
+28,f,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+32,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+32,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,No,Yes
+37,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+39,f,No,0,No,Yes,Don't know,Not applicable to me,Very difficult,No,No
+31,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,No
+29,m,No,0,No,No,Don't know,Not applicable to me,Somewhat difficult,Some of them,No
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+33,m,Yes,1,No,Yes,No,Rarely,Very difficult,Yes,Yes
+37,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Yes,Yes
+23,m,No,1,Yes,Yes,Yes,Often,Somewhat easy,Some of them,Yes
+43,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+32,m,No,1,Don't know,No,Don't know,Rarely,Don't know,Yes,Yes
+26,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,No
+32,m,No,1,Don't know,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+37,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+29,m,No,1,Yes,Yes,Yes,Often,Very easy,Yes,Yes
+34,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+30,m,Yes,0,Don't know,No,Don't know,Never,Very easy,Some of them,Yes
+29,m,No,0,Yes,Yes,Yes,Never,Don't know,Some of them,Some of them
+32,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very difficult,Some of them,No
+25,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+37,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+29,m,Yes,0,No,No,Don't know,Not applicable to me,Very easy,Some of them,Yes
+27,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+30,m,Yes,1,Don't know,No,No,Sometimes,Very difficult,Some of them,No
+29,m,No,0,No,Yes,Don't know,Not applicable to me,Somewhat difficult,Yes,Yes
+25,m,Yes,1,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+33,m,Yes,1,No,Yes,Don't know,Sometimes,Don't know,Some of them,Yes
+31,m,No,0,No,No,No,Never,Don't know,Some of them,Some of them
+21,m,No,0,Don't know,No,Don't know,Rarely,Very easy,Some of them,Some of them
+30,m,Yes,1,Don't know,No,No,Sometimes,Very difficult,No,No
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+43,m,No,1,No,No,Yes,Sometimes,Very difficult,Yes,No
+37,m,No,1,No,No,Don't know,Often,Don't know,Yes,Yes
+24,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Yes,Some of them
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+31,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Yes,Yes
+33,m,No,0,No,Not sure,Don't know,Never,Very easy,Yes,Some of them
+43,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Some of them,Yes
+33,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+27,m,No,0,No,No,Yes,Not applicable to me,Don't know,Yes,Some of them
+36,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+37,m,Yes,1,No,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+32,m,No,0,No,Yes,Don't know,Not applicable to me,Very difficult,No,No
+39,m,No,1,No,No,Don't know,Sometimes,Very easy,No,Some of them
+31,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+36,m,No,1,Yes,Yes,Don't know,Sometimes,Very difficult,Some of them,Some of them
+30,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+28,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Some of them,Yes
+32,m,No,0,No,No,No,Not applicable to me,Somewhat difficult,Some of them,No
+35,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Some of them,Yes
+19,m,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,Yes
+33,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Some of them,Yes
+42,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Some of them,No
+37,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+40,m,No,0,No,No,Yes,Never,Very easy,Some of them,Yes
+36,m,No,0,Yes,Yes,Yes,Never,Very easy,Some of them,Yes
+29,f,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+38,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,No,No
+26,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat difficult,No,No
+34,m,No,0,No,No,Yes,Rarely,Somewhat easy,No,Some of them
+21,m,No,1,No,Yes,No,Often,Don't know,Some of them,Some of them
+31,m,Yes,0,No,Yes,Yes,Sometimes,Somewhat easy,No,No
+37,f,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Yes,Some of them
+37,m,Yes,1,No,No,Don't know,Sometimes,Very easy,Yes,Yes
+38,m,Yes,1,No,No,No,Sometimes,Very difficult,No,No
+27,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,No
+39,m,No,0,No,No,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+33,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,No
+27,m,No,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Some of them,No
+36,f,No,1,Yes,No,Don't know,Never,Don't know,Some of them,Some of them
+28,m,No,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Some of them,Yes
+39,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+33,m,Yes,1,No,Yes,Yes,Sometimes,Very easy,Yes,Yes
+32,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+28,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+37,m,Yes,1,No,No,Yes,Rarely,Somewhat easy,Some of them,Yes
+39,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+43,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,No,No
+32,other,No,1,Don't know,No,Don't know,Sometimes,Don't know,Yes,Some of them
+27,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+31,f,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+43,m,No,1,Don't know,No,Don't know,Never,Don't know,Yes,Yes
+33,m,No,1,No,Yes,Yes,Sometimes,Somewhat difficult,Yes,Yes
+34,m,Yes,1,Don't know,Not sure,Yes,Sometimes,Very easy,Some of them,Yes
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+25,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+25,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Some of them
+32,m,Yes,0,No,Yes,Yes,Not applicable to me,Somewhat easy,No,Yes
+25,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Some of them
+37,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+39,m,No,1,Yes,Yes,Yes,Never,Somewhat easy,Some of them,Some of them
+29,m,No,0,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Some of them,Yes
+33,m,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+37,f,No,1,Don't know,Not sure,Yes,Often,Somewhat difficult,Some of them,Some of them
+35,f,No,1,Yes,No,Yes,Sometimes,Very difficult,No,Some of them
+22,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,Some of them,Some of them
+38,m,No,0,Yes,Yes,Don't know,Never,Somewhat easy,Some of them,Yes
+32,f,Yes,1,Yes,No,Don't know,Often,Don't know,Some of them,Yes
+28,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+27,m,Yes,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+35,f,No,1,Don't know,No,Don't know,Sometimes,Very easy,Some of them,No
+29,m,No,0,Yes,Yes,Yes,Never,Very easy,Yes,Yes
+23,m,Yes,1,No,Yes,Don't know,Sometimes,Very easy,Some of them,Yes
+39,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+30,f,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,No
+32,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+28,other,No,1,No,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+40,f,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+36,f,Yes,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,Some of them
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+41,m,Yes,0,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+29,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,No
+29,m,No,1,No,No,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+35,m,No,1,No,No,Yes,Often,Very difficult,Some of them,Some of them
+28,m,No,1,No,Yes,Don't know,Never,Don't know,Some of them,Some of them
+36,f,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+39,f,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+39,m,Yes,1,Yes,Yes,Yes,Sometimes,Very difficult,Some of them,Yes
+44,m,Yes,1,No,Yes,No,Sometimes,Very easy,Some of them,No
+26,other,No,1,No,Not sure,Yes,Sometimes,Very easy,Some of them,Some of them
+35,m,Yes,1,No,Yes,Don't know,Often,Somewhat easy,Some of them,Some of them
+40,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+35,m,Yes,1,No,Yes,Don't know,Often,Somewhat easy,Some of them,Some of them
+38,m,No,0,No,Yes,No,Never,Very difficult,No,No
+34,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+43,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+48,f,Yes,0,Don't know,No,No,Often,Very difficult,No,Some of them
+20,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+40,m,No,0,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,No
+29,f,No,1,Don't know,No,Don't know,Rarely,Don't know,Some of them,No
+35,m,Yes,1,No,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+29,m,Yes,0,Yes,Yes,Yes,Sometimes,Very easy,Some of them,No
+40,m,No,0,Yes,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+29,m,No,1,No,Yes,Yes,Rarely,Very easy,Some of them,Yes
+29,f,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,Yes,Yes
+34,m,No,1,No,No,Don't know,Sometimes,Don't know,No,No
+44,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Some of them,Yes
+24,f,Yes,1,Yes,Yes,Yes,Often,Very easy,Some of them,Yes
+47,f,No,0,Don't know,No,Don't know,Not applicable to me,Very difficult,No,No
+43,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,Some of them,Yes
+36,m,No,0,Yes,Yes,Yes,Rarely,Somewhat difficult,Some of them,Yes
+43,m,No,1,Don't know,No,Don't know,Sometimes,Very difficult,Some of them,Yes
+36,m,No,0,No,No,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+31,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+35,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+33,m,Yes,0,Yes,No,Yes,Not applicable to me,Somewhat difficult,Some of them,Some of them
+37,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+34,m,No,1,Don't know,No,Yes,Sometimes,Don't know,Some of them,No
+36,m,No,1,No,No,Don't know,Sometimes,Very easy,Yes,No
+40,m,Yes,1,No,Yes,Yes,Sometimes,Very easy,Yes,Yes
+40,m,No,0,Yes,Yes,Yes,Rarely,Don't know,Some of them,Some of them
+42,m,No,1,No,Yes,Don't know,Sometimes,Somewhat easy,No,No
+23,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,Some of them
+21,m,Yes,0,No,No,Yes,Never,Somewhat easy,Some of them,Some of them
+26,m,No,0,No,No,Don't know,Sometimes,Very difficult,Some of them,Some of them
+31,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+25,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+51,m,No,0,Yes,Yes,Yes,Never,Very easy,Yes,Yes
+24,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+33,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+32,m,Yes,1,No,No,No,Rarely,Don't know,Some of them,No
+32,m,Yes,1,No,No,No,Rarely,Don't know,Some of them,No
+26,m,No,1,No,Not sure,Don't know,Rarely,Somewhat difficult,Yes,Yes
+23,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Some of them
+33,m,Yes,1,No,Yes,Don't know,Often,Very difficult,Some of them,Yes
+46,m,No,1,Yes,Yes,Yes,Rarely,Somewhat easy,No,No
+34,m,No,0,No,No,No,Not applicable to me,Somewhat difficult,No,No
+35,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+39,m,No,0,No,Yes,Don't know,Not applicable to me,Very difficult,Some of them,Yes
+32,m,No,0,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+43,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+56,m,No,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+32,f,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+41,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Some of them,Some of them
+39,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+37,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,No,No
+30,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,No,No
+31,m,No,0,Yes,No,Yes,Not applicable to me,Somewhat easy,Some of them,Some of them
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,Some of them
+23,f,Yes,0,No,No,Don't know,Never,Somewhat easy,No,No
+31,m,No,1,Yes,Yes,Yes,Never,Very easy,No,No
+29,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+30,m,No,0,Yes,Yes,Yes,Never,Very easy,Some of them,Yes
+37,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,Yes
+36,m,No,0,Yes,No,Don't know,Never,Somewhat difficult,Some of them,Yes
+35,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+41,m,Yes,0,Don't know,No,Don't know,Never,Don't know,No,No
+31,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Some of them,Yes
+38,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+26,m,No,0,No,No,Yes,Not applicable to me,Very easy,Some of them,Yes
+39,m,Yes,0,Yes,No,Don't know,Sometimes,Don't know,Some of them,Yes
+42,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+32,m,Yes,1,No,Yes,Don't know,Rarely,Very difficult,Some of them,No
+29,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+30,m,Yes,0,Yes,No,Don't know,Never,Very difficult,Some of them,No
+40,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+51,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,Some of them,Yes
+33,m,No,0,Yes,Yes,Yes,Never,Somewhat easy,Some of them,Yes
+34,m,No,1,No,Not sure,Yes,Sometimes,Somewhat difficult,Some of them,Some of them
+50,m,No,0,No,Yes,Yes,Never,Somewhat easy,Some of them,Yes
+24,m,No,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+25,m,Yes,1,No,No,Don't know,Rarely,Don't know,No,No
+43,m,Yes,1,No,No,Don't know,Rarely,Very difficult,Some of them,No
+25,f,No,1,Yes,Yes,Yes,Often,Very easy,Some of them,Some of them
+24,m,No,0,No,Yes,Yes,Not applicable to me,Very easy,No,No
+51,m,No,0,No,Yes,Yes,Never,Somewhat difficult,Some of them,Some of them
+49,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,No,No
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+25,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+36,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,No,No
+48,m,No,1,Yes,Yes,Yes,Never,Don't know,Yes,Yes
+48,m,No,1,No,No,Don't know,Sometimes,Somewhat easy,Some of them,No
+53,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,No
+24,f,Yes,1,No,No,Don't know,Often,Very easy,Yes,Yes
+33,m,Yes,1,Don't know,Yes,Don't know,Sometimes,Somewhat easy,Yes,Yes
+25,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+30,m,No,1,No,No,Don't know,Sometimes,Somewhat difficult,Some of them,No
+30,m,No,0,No,Yes,Yes,Never,Somewhat easy,Some of them,Some of them
+34,m,No,1,No,No,Yes,Sometimes,Somewhat difficult,Some of them,Some of them
+31,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Some of them,Yes
+22,f,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,No,No
+28,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+35,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat difficult,Some of them,Some of them
+28,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+42,m,No,1,No,Yes,Yes,Sometimes,Somewhat difficult,Some of them,Some of them
+33,m,Yes,0,Yes,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+29,m,No,0,Yes,No,Don't know,Sometimes,Don't know,No,No
+43,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Don't know,No,Some of them
+29,m,No,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+25,m,No,0,Yes,No,Yes,Not applicable to me,Don't know,Yes,Yes
+31,m,Yes,0,Don't know,No,Don't know,Never,Very easy,Some of them,Yes
+35,f,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat difficult,Some of them,Yes
+34,m,No,0,Don't know,No,Don't know,Often,Very easy,Some of them,Yes
+43,m,No,1,Yes,Yes,Yes,Sometimes,Very difficult,Some of them,No
+38,m,Yes,1,No,Not sure,Don't know,Sometimes,Very difficult,No,Some of them
+26,m,Yes,1,Don't know,Not sure,Yes,Sometimes,Very difficult,Some of them,Some of them
+38,m,Yes,1,No,No,Yes,Rarely,Very difficult,No,No
+42,m,No,1,Don't know,No,Don't know,Often,Don't know,No,No
+33,m,Yes,1,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+32,m,No,1,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,Some of them
+44,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Some of them,Yes
+28,m,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,No
+40,m,Yes,1,Yes,Yes,Yes,Sometimes,Very difficult,Some of them,Some of them
+31,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+32,m,Yes,0,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+28,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,No
+39,m,Yes,1,Yes,Yes,Yes,Often,Don't know,Some of them,No
+45,m,No,0,Yes,Yes,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+43,m,No,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Yes,Yes
+35,m,No,1,Yes,Yes,Don't know,Sometimes,Very difficult,Some of them,Some of them
+40,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Some of them
+34,m,No,1,No,Yes,Yes,Rarely,Very easy,Yes,Yes
+24,m,Yes,1,Don't know,Yes,No,Often,Somewhat easy,Some of them,Yes
+61,m,No,1,No,No,Don't know,Sometimes,Very difficult,Some of them,Yes
+36,f,Yes,1,Don't know,No,Don't know,Rarely,Don't know,Some of them,No
+38,m,No,0,No,No,Yes,Not applicable to me,Don't know,Some of them,Yes
+33,m,Yes,1,Don't know,Not sure,Yes,Often,Somewhat easy,Some of them,Yes
+30,m,Yes,0,Don't know,No,Don't know,Never,Don't know,No,No
+34,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Some of them
+26,m,No,1,Yes,Not sure,Don't know,Rarely,Don't know,Some of them,Some of them
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+32,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,No,Yes
+25,m,No,0,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+35,m,No,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Yes,No
+24,m,Yes,0,Don't know,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+55,m,No,1,Yes,Yes,Don't know,Often,Somewhat easy,No,Some of them
+33,m,Yes,1,No,Yes,No,Sometimes,Very difficult,Some of them,Some of them
+26,f,Yes,1,No,No,Don't know,Sometimes,Very easy,Some of them,Yes
+25,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Yes,Yes
+45,m,Yes,0,Don't know,No,Don't know,Rarely,Don't know,Some of them,No
+33,f,No,1,No,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+43,m,No,0,No,Not sure,Don't know,Sometimes,Very difficult,No,No
+30,m,No,1,No,Yes,No,Sometimes,Very difficult,No,No
+40,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Yes,Yes
+49,m,Yes,0,Yes,Yes,Yes,Never,Don't know,Yes,Yes
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+26,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Some of them,Some of them
+38,m,No,0,Yes,Yes,Yes,Never,Somewhat easy,Some of them,Some of them
+27,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,No,Some of them
+26,m,No,0,Yes,No,No,Never,Somewhat easy,No,No
+28,m,Yes,1,No,No,Don't know,Often,Somewhat easy,Yes,Yes
+40,m,Yes,1,No,No,Don't know,Sometimes,Don't know,Some of them,Yes
+37,f,Yes,1,No,Yes,Yes,Rarely,Somewhat easy,Some of them,Some of them
+34,f,Yes,1,Yes,Yes,No,Often,Somewhat easy,Some of them,No
+28,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Some of them,Some of them
+27,m,No,0,Yes,Not sure,Yes,Never,Very easy,Yes,Yes
+29,m,No,1,No,No,Don't know,Sometimes,Very easy,Yes,Yes
+39,f,Yes,0,Don't know,Not sure,Don't know,Rarely,Somewhat difficult,No,No
+28,m,No,0,No,No,No,Often,Somewhat difficult,No,No
+23,m,Yes,0,Yes,Not sure,Yes,Sometimes,Somewhat easy,No,No
+38,m,No,0,No,No,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+19,m,No,0,Yes,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+30,f,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,No
+28,m,No,0,No,Yes,Yes,Not applicable to me,Very easy,No,No
+20,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+35,m,No,0,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+39,m,No,1,Yes,Yes,Yes,Rarely,Very easy,Some of them,Yes
+31,f,Yes,0,Yes,Not sure,Don't know,Never,Don't know,No,No
+32,m,No,0,No,No,Don't know,Rarely,Don't know,No,No
+27,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+25,m,Yes,1,Yes,Yes,Yes,Often,Somewhat easy,Yes,Yes
+42,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Yes
+34,m,Yes,1,Yes,Yes,Yes,Often,Very easy,Yes,Yes
+26,f,No,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+35,m,Yes,1,No,Yes,Yes,Sometimes,Very easy,Some of them,Some of them
+34,m,No,0,Don't know,No,Don't know,Never,Very easy,Yes,Yes
+38,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+34,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+39,m,Yes,1,No,Yes,Yes,Sometimes,Somewhat easy,Some of them,Yes
+44,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+40,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,Yes
+33,f,No,0,No,Yes,Yes,Never,Somewhat easy,No,Some of them
+24,f,Yes,0,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+38,f,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+31,m,No,0,Yes,Not sure,Yes,Sometimes,Don't know,Some of them,Some of them
+23,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Some of them,Yes
+26,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+46,other,No,1,Yes,Yes,Don't know,Often,Don't know,Some of them,Some of them
+30,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,No
+25,m,No,0,Don't know,No,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+19,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Some of them,Some of them
+30,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+32,m,No,0,Yes,Yes,Don't know,Never,Somewhat easy,Yes,Yes
+32,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+37,m,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+42,m,Yes,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+25,f,No,0,Yes,Yes,Don't know,Never,Don't know,Some of them,Yes
+19,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+40,f,Yes,0,Yes,Yes,Don't know,Never,Don't know,No,No
+34,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+26,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+31,m,Yes,1,Don't know,Not sure,Yes,Rarely,Don't know,Yes,Yes
+40,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,f,Yes,1,No,No,No,Often,Very difficult,No,No
+36,m,No,0,Don't know,No,Don't know,Never,Don't know,No,No
+35,m,Yes,0,No,Yes,Don't know,Sometimes,Don't know,No,Some of them
+26,m,Yes,1,No,No,Yes,Sometimes,Don't know,Yes,Yes
+44,m,No,0,Don't know,No,Yes,Not applicable to me,Don't know,Some of them,No
+34,f,No,0,No,Not sure,Don't know,Sometimes,Very easy,Some of them,Yes
+35,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+28,f,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+33,m,No,0,Yes,No,Yes,Not applicable to me,Don't know,Some of them,Yes
+40,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+26,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+29,f,No,1,Yes,Yes,Don't know,Often,Don't know,Some of them,No
+26,f,Yes,1,Yes,Not sure,Yes,Sometimes,Don't know,Some of them,No
+33,m,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+28,m,Yes,0,No,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+41,m,No,1,No,Yes,Yes,Often,Very difficult,Some of them,Some of them
+39,m,Yes,1,No,Yes,Yes,Sometimes,Somewhat difficult,Yes,Yes
+26,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Yes
+23,f,Yes,0,No,No,Don't know,Sometimes,Somewhat difficult,No,Some of them
+35,m,Yes,1,Don't know,Not sure,Yes,Often,Very easy,Some of them,Some of them
+36,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+42,m,No,0,Don't know,No,Don't know,Rarely,Don't know,Some of them,No
+39,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+27,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+33,m,No,0,Don't know,No,No,Never,Very easy,Some of them,Yes
+31,m,Yes,1,Yes,Not sure,Don't know,Often,Don't know,Some of them,No
+28,f,No,1,Yes,Yes,Yes,Rarely,Very easy,Some of them,Some of them
+29,f,No,1,Yes,No,Don't know,Often,Somewhat easy,Some of them,Yes
+27,m,No,1,Don't know,Not sure,Yes,Sometimes,Very difficult,Some of them,No
+44,m,No,0,Don't know,No,Yes,Never,Somewhat difficult,No,No
+25,m,No,1,Don't know,No,Don't know,Often,Somewhat easy,Some of them,No
+24,m,Yes,1,No,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+25,m,Yes,1,Don't know,No,Yes,Often,Don't know,Some of them,Yes
+34,m,No,0,Yes,Not sure,Don't know,Never,Somewhat easy,No,Some of them
+26,m,No,0,Yes,Yes,Don't know,Never,Somewhat difficult,No,Yes
+48,m,No,0,Yes,Yes,Yes,Never,Don't know,Some of them,Yes
+34,m,No,0,No,No,Don't know,Not applicable to me,Very difficult,Some of them,No
+39,f,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+43,m,No,0,Yes,Not sure,Don't know,Sometimes,Don't know,No,No
+41,m,No,0,Yes,Yes,Don't know,Rarely,Don't know,Some of them,No
+25,m,No,0,Don't know,No,Don't know,Never,Don't know,Some of them,Yes
+31,m,No,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,No
+40,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+43,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+27,f,Yes,1,Yes,Yes,Yes,Often,Very difficult,Yes,Some of them
+37,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+32,m,No,1,No,No,Yes,Sometimes,Very difficult,Some of them,Yes
+25,m,Yes,1,No,Yes,Yes,Often,Very easy,Yes,Yes
+29,m,Yes,1,Don't know,Not sure,Don't know,Often,Very difficult,Yes,Yes
+30,f,Yes,1,Yes,No,Don't know,Often,Somewhat difficult,No,No
+34,f,Yes,1,Don't know,No,Don't know,Often,Somewhat easy,Some of them,Some of them
+32,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Some of them,Some of them
+37,m,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Yes,Yes
+41,m,No,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+38,m,Yes,0,Yes,Not sure,Don't know,Never,Don't know,Some of them,No
+32,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Yes
+28,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+43,m,Yes,0,Yes,Yes,Don't know,Never,Somewhat easy,Some of them,Some of them
+32,m,Yes,1,No,Yes,Don't know,Often,Very difficult,Yes,Yes
+25,m,No,1,Yes,Yes,Yes,Sometimes,Don't know,No,No
+37,m,No,1,Yes,No,Yes,Sometimes,Very easy,No,Yes
+36,m,No,1,No,Yes,No,Sometimes,Very difficult,No,No
+24,m,Yes,1,Don't know,No,Don't know,Rarely,Very easy,Yes,Yes
+40,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat difficult,Some of them,Some of them
+29,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Some of them,Yes
+43,m,No,0,Don't know,No,Don't know,Never,Don't know,Yes,Some of them
+29,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+26,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,No
+33,f,Yes,1,No,Yes,No,Often,Very difficult,No,No
+35,f,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat easy,Yes,Some of them
+45,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,No
+25,m,No,1,No,Yes,Don't know,Rarely,Somewhat easy,No,Some of them
+50,m,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,Yes
+26,m,Yes,1,No,No,Don't know,Rarely,Very easy,Yes,Yes
+33,f,No,1,Yes,Yes,Don't know,Often,Don't know,No,No
+30,m,No,0,No,No,No,Often,Very easy,Some of them,Some of them
+33,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Some of them,Yes
+29,m,No,1,Yes,No,Yes,Often,Somewhat easy,Yes,Some of them
+37,m,No,0,No,Not sure,Don't know,Not applicable to me,Don't know,Some of them,No
+25,m,Yes,1,Don't know,No,Don't know,Sometimes,Very easy,Yes,Yes
+40,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+24,m,No,0,Yes,Yes,Yes,Sometimes,Don't know,No,No
+40,m,No,1,Don't know,Not sure,Don't know,Never,Very easy,Yes,Some of them
+46,m,Yes,1,Don't know,Yes,Don't know,Sometimes,Don't know,No,Some of them
+38,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,No,Yes
+34,m,No,0,No,Yes,Don't know,Never,Don't know,No,No
+32,m,No,1,No,Yes,Yes,Rarely,Very easy,Some of them,Yes
+44,m,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+33,f,No,1,Don't know,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+45,f,No,1,Don't know,No,Don't know,Rarely,Don't know,Some of them,Some of them
+35,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Don't know,No,No
+26,m,Yes,1,No,No,Don't know,Often,Don't know,Yes,Yes
+20,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Some of them
+37,m,Yes,0,No,No,Yes,Sometimes,Somewhat easy,Some of them,Yes
+28,m,No,0,Yes,No,Yes,Not applicable to me,Somewhat easy,No,No
+42,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+32,m,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+36,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Some of them,No
+27,m,No,0,No,Yes,No,Rarely,Somewhat difficult,No,No
+27,m,No,0,No,Yes,No,Rarely,Somewhat difficult,No,No
+27,m,No,1,No,No,Yes,Sometimes,Somewhat easy,Yes,Yes
+25,m,Yes,1,No,No,Yes,Sometimes,Very easy,Some of them,Yes
+41,m,Yes,0,No,No,Don't know,Not applicable to me,Somewhat difficult,Some of them,Some of them
+23,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+21,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,Some of them,No
+26,m,No,1,No,Yes,Yes,Often,Very difficult,Yes,Yes
+29,m,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,No,No
+28,m,No,0,No,No,Don't know,Sometimes,Somewhat easy,No,No
+27,f,Yes,0,No,Yes,Yes,Not applicable to me,Don't know,No,No
+23,m,No,0,No,Yes,Yes,Never,Somewhat difficult,Yes,Yes
+26,f,Yes,0,Don't know,No,Don't know,Sometimes,Don't know,No,No
+38,m,Yes,1,No,Not sure,Don't know,Sometimes,Very easy,Some of them,Yes
+39,m,Yes,1,No,No,Yes,Sometimes,Very easy,Some of them,Yes
+35,m,Yes,1,Yes,Yes,Don't know,Often,Somewhat easy,No,Some of them
+32,m,No,0,Yes,Not sure,Don't know,Rarely,Don't know,No,Some of them
+32,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Some of them,Some of them
+26,m,No,0,No,No,Don't know,Never,Don't know,Some of them,No
+38,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Yes,Yes
+34,f,Yes,0,Yes,Yes,Yes,Rarely,Very easy,Some of them,Yes
+39,m,Yes,1,Don't know,Not sure,Don't know,Often,Somewhat easy,Some of them,Some of them
+32,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Yes,Yes
+37,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Some of them,Some of them
+31,m,Yes,1,Don't know,Not sure,Don't know,Never,Somewhat easy,Some of them,Some of them
+30,m,Yes,1,No,Yes,Don't know,Rarely,Don't know,No,No
+51,m,No,0,Don't know,No,Don't know,Never,Don't know,No,No
+29,m,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,m,No,0,Yes,No,Don't know,Never,Don't know,Some of them,No
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+26,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+46,f,No,1,Yes,Yes,Yes,Often,Don't know,Some of them,Some of them
+32,m,Yes,0,Yes,No,Don't know,Sometimes,Don't know,Yes,Yes
+29,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+34,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Some of them
+26,m,No,0,No,No,No,Often,Very difficult,No,No
+32,f,No,1,Yes,Yes,Don't know,Sometimes,Don't know,Some of them,No
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+40,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+23,m,No,1,No,No,Don't know,Sometimes,Very difficult,Yes,Yes
+20,m,No,0,No,No,Don't know,Rarely,Very difficult,Some of them,No
+38,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Some of them,Yes
+26,f,Yes,1,Yes,No,Don't know,Rarely,Don't know,No,No
+29,m,No,0,No,No,Don't know,Never,Don't know,Some of them,Yes
+40,m,No,0,No,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+25,f,No,1,No,No,Don't know,Sometimes,Don't know,Yes,Some of them
+32,f,No,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+38,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+35,f,Yes,1,No,No,Yes,Sometimes,Don't know,Some of them,Some of them
+28,f,No,1,No,Yes,Don't know,Often,Very difficult,Some of them,Some of them
+27,f,No,0,Don't know,Not sure,Don't know,Never,Don't know,Some of them,Yes
+56,f,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,No,No
+38,m,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+31,f,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Some of them,Some of them
+40,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+44,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Some of them
+34,m,Yes,0,Yes,Not sure,Yes,Sometimes,Don't know,No,No
+37,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Some of them,Yes
+38,m,No,0,Don't know,Not sure,Yes,Never,Don't know,Some of them,Yes
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+34,f,No,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,Some of them
+35,f,No,0,Don't know,No,No,Rarely,Don't know,Some of them,No
+34,m,No,1,No,No,Don't know,Often,Somewhat difficult,Some of them,Yes
+32,m,No,1,Yes,Not sure,Don't know,Often,Very difficult,Some of them,No
+25,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Some of them,Yes
+28,m,No,1,No,Yes,Don't know,Often,Don't know,No,No
+28,f,No,1,Yes,No,Don't know,Rarely,Somewhat easy,Some of them,No
+31,m,No,1,No,Yes,No,Not applicable to me,Don't know,Yes,Yes
+24,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Yes
+34,m,Yes,1,No,No,Don't know,Never,Don't know,Some of them,Yes
+32,m,No,1,No,No,Don't know,Sometimes,Somewhat easy,Some of them,Yes
+34,m,Yes,0,Don't know,Not sure,Don't know,Often,Somewhat easy,Some of them,Yes
+23,m,No,1,No,Yes,No,Sometimes,Very easy,Some of them,Yes
+33,m,Yes,0,No,Yes,Don't know,Often,Somewhat easy,Some of them,Yes
+29,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+24,m,Yes,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+45,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Some of them
+34,f,No,1,No,Yes,Yes,Sometimes,Somewhat difficult,Some of them,Yes
+31,m,No,0,Don't know,No,Don't know,Sometimes,Very difficult,Some of them,No
+33,m,No,1,Yes,Yes,Yes,Often,Don't know,Some of them,No
+28,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+27,m,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,Some of them,Yes
+42,m,No,0,No,Yes,No,Never,Somewhat difficult,Some of them,Some of them
+28,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+38,m,No,1,Yes,No,Yes,Sometimes,Very easy,Yes,Yes
+46,m,Yes,1,Don't know,No,Don't know,Often,Don't know,Some of them,No
+46,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Some of them,Yes
+41,f,No,1,Don't know,Yes,No,Rarely,Somewhat easy,Yes,Yes
+23,m,No,0,Don't know,No,Don't know,Never,Somewhat easy,Some of them,Some of them
+24,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Some of them,No
+23,f,No,1,No,Yes,Don't know,Rarely,Don't know,Yes,Some of them
+39,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Some of them
+32,f,Yes,0,Yes,Yes,Yes,Never,Don't know,Some of them,Some of them
+25,m,Yes,1,Don't know,Yes,Don't know,Sometimes,Somewhat easy,Some of them,Some of them
+39,m,No,0,No,No,Yes,Not applicable to me,Don't know,No,No
+23,f,Yes,1,No,Yes,Yes,Sometimes,Very easy,Yes,Yes
+24,m,No,1,No,No,Don't know,Sometimes,Don't know,Some of them,Some of them
+25,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+23,m,No,1,No,Yes,Don't know,Rarely,Don't know,Yes,Yes
+24,m,No,1,Don't know,No,Don't know,Sometimes,Don't know,No,No
+23,m,No,1,Yes,Yes,Don't know,Often,Don't know,Yes,Some of them
+60,m,No,1,Don't know,No,Don't know,Often,Somewhat easy,Some of them,No
+28,m,No,0,No,Yes,Yes,Sometimes,Don't know,No,No
+28,m,Yes,1,Yes,Yes,Yes,Often,Somewhat easy,Some of them,Yes
+30,m,No,0,Don't know,No,Don't know,Sometimes,Don't know,Yes,Yes
+31,m,Yes,1,Don't know,No,Yes,Sometimes,Somewhat easy,Some of them,No
+31,m,No,1,No,No,Don't know,Often,Somewhat easy,Some of them,No
+28,m,No,1,Don't know,No,Don't know,Rarely,Don't know,No,No
+43,f,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Some of them,Yes
+32,f,No,0,No,No,Don't know,Not applicable to me,Don't know,Some of them,Yes
+22,m,Yes,1,Yes,Yes,Yes,Often,Don't know,No,Yes
+32,m,No,0,Yes,Not sure,Don't know,Never,Somewhat easy,No,Some of them
+36,m,No,1,No,No,No,Often,Very difficult,Some of them,No
+41,f,Yes,1,Yes,No,Don't know,Sometimes,Don't know,No,No
+30,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+30,m,Yes,1,Yes,Not sure,Don't know,Often,Don't know,Some of them,Yes
+36,m,Yes,1,No,Yes,Don't know,Often,Somewhat easy,Some of them,Yes
+29,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+36,m,Yes,0,Don't know,No,Don't know,Rarely,Somewhat easy,Some of them,Some of them
+26,m,No,1,No,No,Don't know,Not applicable to me,Somewhat easy,Some of them,Some of them
+32,m,Yes,1,Yes,Yes,Yes,Often,Somewhat difficult,Some of them,Yes
+34,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+46,f,No,0,No,Yes,Don't know,Not applicable to me,Don't know,No,No
+25,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Some of them,No
+41,m,No,0,No,No,Don't know,Sometimes,Don't know,Some of them,No
+39,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+29,m,Yes,1,No,Yes,Yes,Rarely,Somewhat easy,Maybe,Yes
+38,m,No,1,No,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+43,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+43,f,Yes,1,Yes,Yes,No,Sometimes,Neither easy nor difficult,Maybe,No
+42,m,No,1,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+30,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+37,f,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Yes
+44,f,Yes,1,Don't know,No,Don't know,Rarely,Very difficult,Yes,Maybe
+30,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+28,m,I don't know,1,Yes,Not sure,Yes,Sometimes,Very easy,Maybe,Yes
+34,m,Yes,1,Yes,Yes,Don't know,Never,Somewhat difficult,No,No
+30,f,Yes,1,Yes,Not sure,Yes,Rarely,Very easy,Yes,Yes
+44,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,No,Maybe
+35,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+52,m,Yes,1,Don't know,No,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+32,f,Yes,1,Not eligible for coverage / N/A,No,Don't know,Sometimes,Very difficult,Maybe,Maybe
+34,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Yes,Maybe
+25,f,I don't know,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+31,m,Yes,1,Don't know,No,Don't know,Rarely,Don't know,No,No
+26,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+35,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+25,m,I don't know,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,No
+33,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+38,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+42,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Maybe
+27,m,I don't know,1,No,No,Don't know,Rarely,Very difficult,No,No
+35,m,No,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+34,f,Yes,1,Don't know,No,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+32,other,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Somewhat easy,Yes,Yes
+32,other,Yes,1,Not eligible for coverage / N/A,Yes,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+30,m,No,1,Yes,Yes,Yes,Often,Very easy,Yes,Yes
+31,m,I don't know,0,Don't know,Not sure,Don't know,Rarely,Very easy,No,Maybe
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Maybe,Yes
+33,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,No,No
+44,m,Yes,1,Yes,Not sure,Yes,Sometimes,Very easy,Yes,Maybe
+29,m,No,0,No,Yes,Don't know,Never,Somewhat easy,Yes,Yes
+29,m,Yes,1,No,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Yes
+44,m,I don't know,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+34,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+40,m,I don't know,1,Yes,Not sure,Yes,Rarely,Somewhat easy,Maybe,Yes
+46,f,Yes,1,Yes,Not sure,Yes,Often,Somewhat difficult,Yes,Yes
+28,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+41,m,No,0,No,Not sure,No,Not applicable to me,Somewhat difficult,No,No
+33,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+32,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+45,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,Maybe
+43,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,f,No,1,Yes,Yes,Yes,Often,Very easy,Yes,Maybe
+37,m,I don't know,1,No,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+27,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,Yes,1,Yes,Yes,Don't know,Never,Somewhat difficult,Maybe,Yes
+34,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,Maybe,Maybe
+31,f,No,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,Yes,Yes
+30,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Yes,Yes
+32,m,Yes,0,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Yes
+40,f,I don't know,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+40,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+41,m,I don't know,0,Yes,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Yes
+27,m,No,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Very difficult,No,Maybe
+30,m,No,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+29,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,f,Yes,1,No,Yes,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+29,m,Yes,1,Yes,Not sure,Don't know,Often,Neither easy nor difficult,No,No
+28,m,Yes,0,Yes,Not sure,Yes,Not applicable to me,Don't know,No,Maybe
+27,m,I don't know,1,No,Yes,Yes,Rarely,Very easy,No,Yes
+39,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+46,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very difficult,No,No
+40,m,No,1,No,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+37,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Yes
+41,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+19,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,f,No,0,Don't know,Not sure,No,Not applicable to me,Somewhat easy,Yes,Maybe
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+33,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Maybe,Yes
+21,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Maybe,Yes
+36,m,Yes,0,No,No,Don't know,Often,Very difficult,No,No
+39,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+35,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+36,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+45,m,No,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+41,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+35,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+30,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+24,f,Yes,1,Don't know,Not sure,Yes,Sometimes,Very easy,Maybe,Maybe
+33,m,I don't know,1,No,Not sure,Don't know,Never,Don't know,No,No
+35,m,Yes,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+26,m,No,0,No,Not sure,Don't know,Rarely,Neither easy nor difficult,Maybe,Yes
+29,f,No,1,Don't know,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Yes
+26,m,Yes,1,Yes,Not sure,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+36,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+46,m,I don't know,0,Don't know,Not sure,Yes,Not applicable to me,Don't know,No,No
+39,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Yes
+40,m,No,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+23,m,I don't know,1,Don't know,No,Don't know,Often,Don't know,Maybe,Yes
+30,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+28,f,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,No,No
+27,m,I don't know,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+31,m,No,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+39,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,No
+34,f,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Maybe,Maybe
+30,m,No,1,Yes,Yes,Yes,Rarely,Very easy,No,Yes
+30,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+30,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+32,m,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+22,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+37,f,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+51,m,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Maybe,Maybe
+26,m,Yes,1,Don't know,No,Don't know,Rarely,Don't know,Maybe,Yes
+41,f,Yes,1,Yes,Yes,Yes,Never,Somewhat easy,Yes,Yes
+39,f,Yes,1,Don't know,Not sure,Don't know,Never,Neither easy nor difficult,Maybe,Maybe
+43,m,Yes,1,Yes,No,No,Rarely,Neither easy nor difficult,No,No
+30,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,Yes,Yes
+24,f,I don't know,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,Yes
+30,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,f,Yes,1,No,Yes,Don't know,Rarely,Somewhat difficult,No,Maybe
+48,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+55,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,f,I don't know,1,Don't know,No,Don't know,Not applicable to me,Very difficult,Yes,No
+38,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+34,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+44,f,No,0,Yes,No,No,Not applicable to me,Somewhat easy,No,Maybe
+45,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Very difficult,No,Maybe
+45,m,I don't know,1,Yes,No,Don't know,Rarely,Somewhat difficult,Maybe,No
+30,m,Yes,1,No,Not sure,Don't know,Never,Somewhat difficult,Maybe,Yes
+34,m,I don't know,1,Yes,No,Yes,Rarely,Don't know,Maybe,Yes
+37,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+38,m,No,0,Yes,Not sure,Yes,Not applicable to me,Don't know,No,Maybe
+31,m,No,1,Yes,No,Don't know,Rarely,Don't know,No,Maybe
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+29,f,I don't know,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,No
+35,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+42,other,Yes,1,No,Yes,No,Sometimes,Very difficult,No,No
+26,f,I don't know,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,Maybe
+36,f,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Maybe,Yes
+21,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+34,f,I don't know,1,Yes,Not sure,No,Rarely,Somewhat easy,No,Yes
+40,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,m,No,1,Yes,No,Don't know,Rarely,Very difficult,Maybe,Maybe
+44,m,No,1,Yes,Yes,No,Never,Somewhat easy,Yes,Yes
+35,other,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+45,m,No,0,No,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+42,m,No,1,Yes,Yes,Yes,Never,Very easy,Maybe,Yes
+40,m,I don't know,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+50,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,m,Yes,1,Yes,No,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+31,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+29,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+37,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+31,m,I don't know,1,No,Not sure,Yes,Sometimes,Very difficult,Maybe,Maybe
+42,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+25,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,No,No
+27,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Yes
+41,f,No,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+41,f,No,0,Yes,Yes,Don't know,Rarely,Somewhat easy,Maybe,No
+55,f,I don't know,1,Yes,Yes,Yes,Not applicable to me,Very easy,No,No
+21,m,No,0,Yes,Yes,Yes,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,No,Maybe
+34,f,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Maybe,Yes
+40,m,I don't know,0,Yes,Yes,Don't know,Not applicable to me,Don't know,No,No
+25,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+25,m,No,0,No,Not sure,No,Sometimes,Somewhat easy,Yes,Maybe
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+37,m,I don't know,1,No,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+45,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+26,m,Yes,1,No,Not sure,No,Sometimes,Neither easy nor difficult,Yes,Yes
+23,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,No
+22,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,No,No
+46,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+31,m,No,0,No,Not sure,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+27,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+37,m,I don't know,0,No,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+26,other,No,1,Not eligible for coverage / N/A,Not sure,Don't know,Never,Very easy,Yes,Yes
+23,m,Yes,1,No,No,Yes,Rarely,Very easy,Maybe,Yes
+40,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat difficult,Maybe,Maybe
+29,m,No,0,No,No,No,Not applicable to me,Somewhat easy,Maybe,Yes
+37,m,I don't know,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+34,f,Yes,1,Yes,Yes,Yes,Not applicable to me,Somewhat difficult,Yes,Yes
+40,m,No,1,Yes,No,Don't know,Rarely,Very easy,Yes,Yes
+39,m,No,1,Yes,No,Don't know,Never,Very easy,Maybe,Maybe
+28,m,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+28,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+27,m,Yes,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+48,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+49,f,No,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Yes,Yes
+35,m,I don't know,1,No,Not sure,Don't know,Sometimes,Somewhat easy,Yes,Yes
+35,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+38,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+32,m,Yes,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Yes,Maybe
+42,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+33,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Yes
+35,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Yes,Yes
+24,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+29,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Yes,Yes
+29,m,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,Yes
+24,m,No,0,Not eligible for coverage / N/A,Not sure,No,Not applicable to me,Somewhat easy,Maybe,Maybe
+30,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Yes,Maybe
+30,m,No,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+44,m,Yes,1,No,No,Don't know,Rarely,Somewhat difficult,No,No
+37,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+28,m,No,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+42,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,Yes
+30,f,Yes,1,Yes,No,Don't know,Rarely,Somewhat easy,Yes,Yes
+36,m,No,1,Don't know,Not sure,Don't know,Often,Don't know,No,Maybe
+30,m,No,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+29,m,No,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+25,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+25,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+24,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+25,m,No,1,No,No,No,Rarely,Somewhat easy,No,No
+31,m,I don't know,0,Yes,Yes,Yes,Never,Very easy,Yes,Yes
+37,m,Yes,0,Yes,No,Don't know,Not applicable to me,Don't know,Maybe,No
+35,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+26,f,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Rarely,Somewhat easy,Yes,Yes
+31,m,I don't know,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+29,f,Yes,1,Yes,Not sure,Don't know,Never,Somewhat easy,Maybe,Maybe
+33,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,No
+30,m,No,0,No,Not sure,No,Not applicable to me,Somewhat easy,Maybe,No
+30,m,I don't know,0,Yes,Yes,Don't know,Often,Neither easy nor difficult,Yes,Yes
+29,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+25,f,I don't know,1,Don't know,No,No,Never,Somewhat difficult,No,No
+27,m,Yes,1,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Yes
+26,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,No,No
+38,f,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+49,m,Yes,1,Yes,Yes,No,Never,Very difficult,Maybe,No
+30,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+34,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+31,m,No,0,No,No,Don't know,Not applicable to me,Very easy,No,No
+29,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+31,m,No,0,No,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+34,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Neither easy nor difficult,No,No
+28,m,No,1,Don't know,No,Don't know,Rarely,Somewhat easy,Yes,Maybe
+35,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+27,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,No,Maybe
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,f,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+45,m,No,1,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Very easy,Maybe,Maybe
+31,f,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+36,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+30,m,Yes,1,Yes,Yes,Don't know,Often,Don't know,Maybe,Maybe
+33,f,Yes,1,Yes,Yes,Yes,Rarely,Very difficult,No,Maybe
+45,f,I don't know,1,Yes,Not sure,Don't know,Never,Don't know,No,No
+30,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Maybe,Yes
+30,m,Yes,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Maybe,Maybe
+29,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,m,Yes,0,No,Yes,No,Never,Somewhat easy,Yes,Yes
+28,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,Maybe
+36,m,No,1,Yes,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+37,f,Yes,1,Yes,Yes,Don't know,Sometimes,Neither easy nor difficult,Maybe,No
+29,m,Yes,1,Yes,Not sure,Yes,Never,Very easy,Yes,Yes
+25,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+34,f,No,0,Yes,No,Yes,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+37,m,No,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,Maybe
+40,f,Yes,1,Yes,Yes,Don't know,Never,Neither easy nor difficult,Maybe,Yes
+32,m,No,0,Yes,Yes,Don't know,Not applicable to me,Somewhat difficult,Maybe,No
+38,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+31,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+28,f,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+27,f,Yes,1,No,No,Don't know,Often,Very difficult,No,No
+28,f,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Maybe,Maybe
+26,m,Yes,1,Don't know,Yes,Don't know,Never,Somewhat easy,No,Maybe
+40,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+42,m,No,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+36,m,I don't know,0,Yes,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+44,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+24,m,I don't know,1,Yes,Yes,Don't know,Sometimes,Very difficult,Maybe,Maybe
+44,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,No,Maybe
+31,m,No,1,Yes,Not sure,Don't know,Never,Neither easy nor difficult,Yes,No
+49,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,f,Yes,0,Yes,No,Yes,Not applicable to me,Very difficult,Maybe,No
+27,m,Yes,1,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+28,m,No,1,Yes,Yes,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+20,f,Yes,1,Yes,Yes,Don't know,Rarely,Very difficult,No,No
+41,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,m,I don't know,1,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+29,m,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+44,f,Yes,1,Yes,No,Don't know,Sometimes,Very easy,Maybe,Maybe
+31,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,Yes
+54,m,Yes,1,No,No,No,Rarely,Somewhat difficult,No,No
+33,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+29,m,No,0,No,No,No,Not applicable to me,Don't know,No,No
+26,other,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+26,m,Yes,0,Don't know,No,Don't know,Rarely,Somewhat easy,Yes,Yes
+34,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,f,Yes,1,Don't know,No,Don't know,Never,Don't know,No,No
+30,m,Yes,1,No,No,Don't know,Sometimes,Very easy,Maybe,Maybe
+34,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+47,f,Yes,1,Yes,Not sure,Yes,Rarely,Very easy,Maybe,Maybe
+33,f,Yes,1,Yes,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+22,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+28,f,I don't know,1,Not eligible for coverage / N/A,Not sure,No,Not applicable to me,Somewhat difficult,No,Yes
+31,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+56,m,No,0,No,Not sure,Don't know,Sometimes,Very difficult,Maybe,Maybe
+57,f,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+39,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Don't know,Maybe,Maybe
+21,m,Yes,1,No,No,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+31,f,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+63,m,No,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+46,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+32,f,Yes,1,Don't know,No,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+35,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+34,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+35,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Never,Neither easy nor difficult,Maybe,Maybe
+31,m,No,0,No,Not sure,Yes,Not applicable to me,Very easy,Maybe,Yes
+35,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+36,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+50,m,Yes,1,Yes,Not sure,Don't know,Never,Somewhat difficult,Maybe,Maybe
+31,m,Yes,1,Don't know,Not sure,Yes,Rarely,Very easy,Maybe,Yes
+47,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Yes,Maybe
+32,f,No,1,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,No
+23,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Maybe,Yes
+43,f,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,Yes,Yes
+26,f,Yes,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+26,f,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+55,f,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Yes
+27,m,No,1,Yes,No,Don't know,Often,Neither easy nor difficult,Maybe,Maybe
+34,m,Yes,1,Not eligible for coverage / N/A,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+25,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+35,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Yes
+37,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+38,f,I don't know,1,Yes,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+29,m,I don't know,1,Yes,No,Don't know,Not applicable to me,Very difficult,Maybe,Maybe
+28,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Maybe
+29,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat easy,Yes,Yes
+40,m,Yes,0,Yes,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Yes
+25,f,No,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+29,f,Yes,0,Yes,Yes,Don't know,Rarely,Somewhat easy,Yes,Yes
+35,m,No,1,Yes,Yes,Don't know,Rarely,Very easy,Yes,Yes
+25,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+43,m,No,1,No,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+26,m,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+31,m,No,1,Don't know,No,Don't know,Not applicable to me,Very easy,No,No
+31,f,Yes,0,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Yes
+45,f,I don't know,1,Don't know,No,Don't know,Never,Somewhat difficult,No,Yes
+23,m,I don't know,0,No,No,No,Not applicable to me,Somewhat easy,No,No
+39,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+27,f,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+28,m,Yes,1,Yes,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+36,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+22,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,No
+51,m,I don't know,1,Yes,Not sure,No,Sometimes,Neither easy nor difficult,Maybe,Yes
+39,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Somewhat difficult,Yes,Yes
+40,m,No,0,Don't know,No,Yes,Not applicable to me,Don't know,No,No
+35,f,I don't know,1,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+38,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,No
+29,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Don't know,No,Maybe
+43,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+31,f,Yes,1,Yes,No,Don't know,Rarely,Somewhat easy,Yes,Yes
+45,m,No,0,No,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+26,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+42,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Yes,Yes
+28,f,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+28,m,Yes,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Don't know,Yes,Maybe
+39,f,Yes,1,Yes,No,Don't know,Sometimes,Don't know,Yes,Maybe
+34,m,No,1,Yes,Not sure,Yes,Rarely,Somewhat easy,Maybe,Maybe
+28,f,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+35,f,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+42,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+29,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+34,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+28,m,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+22,f,No,0,Don't know,No,Don't know,Never,Very easy,No,No
+28,f,Yes,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Maybe,Maybe
+26,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+21,f,Yes,1,Yes,Not sure,Yes,Not applicable to me,Don't know,Maybe,Maybe
+38,m,Yes,1,No,No,No,Rarely,Somewhat easy,Yes,Maybe
+33,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+28,f,Yes,1,Yes,Not sure,Yes,Rarely,Very easy,Maybe,Yes
+32,m,I don't know,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Maybe
+24,f,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat difficult,No,No
+35,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,No
+41,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,f,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat difficult,Maybe,No
+30,m,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Yes,Yes
+47,f,No,0,Yes,Yes,Yes,Never,Don't know,No,No
+26,f,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,No,No
+32,m,I don't know,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,No,Yes
+32,m,Yes,0,Don't know,No,Don't know,Sometimes,Neither easy nor difficult,No,Maybe
+37,m,I don't know,1,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+33,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,f,I don't know,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+22,m,No,1,Don't know,No,Yes,Not applicable to me,Somewhat easy,Maybe,No
+30,m,Yes,1,Don't know,Not sure,Don't know,Never,Somewhat easy,Maybe,Maybe
+42,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+34,m,I don't know,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Maybe
+32,m,No,1,Yes,Yes,Yes,Rarely,Very easy,No,Yes
+37,m,Yes,1,No,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+31,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,Yes,1,Don't know,No,Don't know,Never,Very easy,Maybe,Maybe
+26,m,I don't know,0,No,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+30,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,m,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,Maybe,Yes
+38,m,Yes,1,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+24,m,No,1,Yes,Yes,Don't know,Never,Somewhat easy,Yes,Maybe
+26,m,I don't know,0,Don't know,No,Don't know,Never,Somewhat difficult,No,Maybe
+37,m,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,Maybe,Yes
+27,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+32,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+32,m,No,1,Yes,Not sure,Yes,Never,Very easy,Yes,Yes
+30,m,I don't know,1,Yes,Not sure,No,Rarely,Neither easy nor difficult,Yes,Yes
+26,f,No,1,No,No,Don't know,Sometimes,Very difficult,Yes,Yes
+27,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,I don't know,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+29,m,Yes,1,Not eligible for coverage / N/A,No,Don't know,Not applicable to me,Don't know,Maybe,Yes
+26,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Yes,Maybe
+23,f,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+30,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+40,m,Yes,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+46,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,No,No
+26,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Yes,Yes
+30,m,I don't know,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,No
+27,f,No,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+35,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+26,f,Yes,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,Maybe,No
+35,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+29,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+34,m,No,1,Don't know,Not sure,Yes,Not applicable to me,Very easy,Yes,Yes
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+39,m,No,0,No,Not sure,Yes,Not applicable to me,Don't know,Maybe,No
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+31,m,No,1,No,No,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+26,m,No,0,No,No,Don't know,Not applicable to me,Somewhat difficult,No,Yes
+44,m,Yes,1,Yes,No,Yes,Sometimes,Neither easy nor difficult,Yes,Maybe
+27,m,No,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+57,f,Yes,1,Yes,Not sure,Don't know,Never,Somewhat easy,Maybe,Yes
+34,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+55,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,I don't know,1,Don't know,Not sure,No,Often,Neither easy nor difficult,No,Maybe
+26,m,I don't know,1,Yes,No,Don't know,Often,Somewhat difficult,Maybe,No
+22,f,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Maybe,Yes
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+31,m,No,1,Don't know,No,No,Not applicable to me,Somewhat difficult,No,No
+40,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+26,m,No,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,Yes
+36,m,Yes,1,No,Not sure,No,Sometimes,Very difficult,No,No
+33,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+24,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+22,m,Yes,0,No,No,Don't know,Often,Very easy,No,Maybe
+33,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,Maybe,Yes
+37,f,No,1,Yes,No,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+29,m,No,0,Yes,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+38,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Yes,Not applicable to me,Neither easy nor difficult,Yes,Yes
+33,m,Yes,0,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,No,No
+44,f,Yes,1,Don't know,Not sure,Don't know,Never,Neither easy nor difficult,No,No
+23,m,Yes,1,Yes,Not sure,Don't know,Never,Somewhat easy,Maybe,Yes
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,m,I don't know,1,Don't know,No,Don't know,Rarely,Very difficult,No,No
+28,m,No,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+39,m,I don't know,0,Yes,Yes,No,Not applicable to me,Somewhat easy,Maybe,Maybe
+24,f,Yes,1,No,No,Don't know,Never,Somewhat difficult,No,No
+27,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+35,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+23,m,Yes,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+37,m,Yes,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Maybe,Yes
+35,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+27,m,I don't know,0,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,Maybe
+27,f,Yes,0,Don't know,Not sure,Don't know,Rarely,Very easy,Maybe,Maybe
+27,f,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+42,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+32,m,Yes,0,Yes,Not sure,Yes,Not applicable to me,Somewhat difficult,No,Maybe
+26,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+28,m,No,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+28,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,No
+32,m,Yes,1,Yes,No,Yes,Rarely,Don't know,No,No
+43,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+34,m,I don't know,1,Yes,Not sure,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+61,f,No,1,Don't know,Not sure,No,Rarely,Neither easy nor difficult,No,Maybe
+50,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+51,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,m,No,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+34,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+43,m,No,1,No,Not sure,Don't know,Sometimes,Somewhat difficult,Yes,Maybe
+43,f,No,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+44,m,Yes,1,No,Not sure,Don't know,Often,Somewhat difficult,No,Maybe
+35,m,I don't know,1,Don't know,No,Don't know,Rarely,Very easy,Maybe,Maybe
+50,m,No,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,Yes
+29,m,No,1,Yes,Yes,Yes,Rarely,Very difficult,Maybe,Yes
+29,m,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Yes,Yes
+36,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+33,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+50,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+46,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+44,f,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+41,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Yes
+31,m,No,0,Yes,No,Don't know,Never,Somewhat easy,Maybe,Yes
+55,m,Yes,1,No,Yes,No,Often,Very difficult,No,No
+34,m,No,0,No,Not sure,Don't know,Never,Very difficult,Maybe,No
+28,f,Yes,1,Yes,Yes,Don't know,Often,Somewhat difficult,Yes,Yes
+33,m,Yes,1,Yes,No,Don't know,Rarely,Very difficult,Maybe,Maybe
+29,m,Yes,1,Yes,No,No,Sometimes,Neither easy nor difficult,Maybe,No
+33,f,Yes,1,Yes,Not sure,Yes,Rarely,Somewhat difficult,Maybe,Yes
+28,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,Maybe
+32,m,Yes,1,Yes,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+36,f,Yes,1,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+45,m,No,0,Don't know,Not sure,Yes,Often,Somewhat easy,No,No
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+23,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,No,No
+54,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+61,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+29,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,No,No
+31,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Neither easy nor difficult,No,Maybe
+37,m,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+29,m,Yes,1,No,No,No,Sometimes,Somewhat difficult,No,No
+28,m,No,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+30,m,No,1,Don't know,Not sure,Yes,Rarely,Somewhat easy,Maybe,Maybe
+55,m,No,1,Yes,Not sure,Yes,Sometimes,Somewhat easy,Yes,Yes
+38,f,Yes,1,Don't know,No,Don't know,Never,Neither easy nor difficult,Maybe,Yes
+20,m,I don't know,0,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,No,No
+25,m,Yes,1,No,Yes,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+22,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,I don't know,1,Don't know,No,Don't know,Never,Very difficult,No,No
+24,m,Yes,1,No,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Yes
+39,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+29,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+40,f,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+30,m,Yes,1,No,No,No,Sometimes,Somewhat difficult,No,No
+32,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+34,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,f,No,1,Yes,Not sure,Yes,Rarely,Very easy,Maybe,Maybe
+30,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,Yes,1,No,No,Don't know,Not applicable to me,Don't know,Maybe,No
+26,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+31,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Yes,No
+33,m,Yes,0,Not eligible for coverage / N/A,Not sure,Yes,Not applicable to me,Very easy,No,Yes
+30,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+46,m,No,1,Don't know,Not sure,Don't know,Never,Somewhat easy,No,No
+32,m,Yes,1,No,No,Don't know,Rarely,Neither easy nor difficult,Yes,Yes
+34,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+41,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+32,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+47,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat difficult,No,No
+29,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,No,No
+36,m,I don't know,1,Yes,Not sure,Don't know,Never,Don't know,Yes,Maybe
+32,m,Yes,1,No,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,No
+29,m,Yes,1,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+22,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+32,f,Yes,1,Yes,Yes,Yes,Often,Very easy,No,No
+19,f,No,0,Yes,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+30,m,No,0,No,Not sure,Yes,Not applicable to me,Very easy,Yes,Yes
+32,other,Yes,1,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+22,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+30,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+33,m,No,0,No,No,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+48,f,No,1,No,Not sure,Don't know,Never,Very difficult,No,Maybe
+45,m,No,1,No,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+28,m,Yes,1,Don't know,Not sure,Yes,Never,Very easy,Maybe,Yes
+44,m,Yes,1,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Yes
+31,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+31,f,I don't know,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Yes,Yes
+29,m,No,0,Yes,No,Yes,Not applicable to me,Very easy,Yes,Yes
+26,m,No,0,Yes,Yes,Don't know,Not applicable to me,Don't know,No,Maybe
+35,f,Yes,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,Yes,Yes
+44,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+45,m,Yes,1,Yes,No,Don't know,Rarely,Don't know,No,No
+22,f,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat easy,No,Yes
+34,m,I don't know,0,Yes,Yes,Don't know,Rarely,Don't know,Maybe,Yes
+35,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+39,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+26,m,Yes,1,Not eligible for coverage / N/A,Yes,No,Not applicable to me,Somewhat difficult,No,No
+41,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+24,m,Yes,1,Don't know,No,Yes,Sometimes,Somewhat easy,Maybe,Maybe
+34,m,No,1,Yes,Yes,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+36,m,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+41,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,No
+21,m,No,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,No
+33,m,I don't know,1,Don't know,Not sure,No,Rarely,Somewhat easy,Maybe,Maybe
+32,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Yes,Yes
+62,f,I don't know,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Yes,Maybe
+37,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+32,m,I don't know,0,Don't know,Not sure,Don't know,Never,Somewhat easy,Yes,Yes
+31,m,No,1,Yes,Yes,Don't know,Rarely,Very difficult,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,No,No
+48,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+40,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+29,m,No,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Maybe
+33,m,I don't know,1,Yes,Yes,Don't know,Not applicable to me,Don't know,Yes,Maybe
+27,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+24,m,No,0,Not eligible for coverage / N/A,Not sure,No,Not applicable to me,Very easy,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+42,m,Yes,1,Yes,Yes,No,Not applicable to me,Very easy,Yes,Yes
+28,m,No,0,No,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+40,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+32,f,Yes,1,Yes,Not sure,Don't know,Rarely,Very easy,No,No
+33,m,No,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+40,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+26,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,No,No
+39,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Yes,Maybe
+38,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+34,m,Yes,0,Yes,No,Don't know,Sometimes,Very difficult,No,Maybe
+44,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,Yes,Maybe
+54,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,m,No,0,Yes,No,Yes,Not applicable to me,Very easy,Yes,Yes
+31,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+47,m,Yes,1,Yes,Yes,No,Sometimes,Somewhat difficult,Maybe,Yes
+30,m,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Never,Very easy,Yes,Yes
+34,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+29,m,Yes,1,Yes,Not sure,Yes,Often,Very easy,Yes,Yes
+27,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Yes
+29,m,No,1,Yes,No,Yes,Sometimes,Neither easy nor difficult,No,Maybe
+43,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+31,other,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat difficult,Maybe,No
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+29,m,No,1,No,Not sure,No,Rarely,Somewhat difficult,Maybe,Maybe
+29,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+42,m,I don't know,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+26,f,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+26,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+34,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+24,m,I don't know,0,Yes,Yes,Yes,Not applicable to me,Somewhat difficult,No,Maybe
+25,m,No,0,Yes,No,Yes,Not applicable to me,Somewhat difficult,No,No
+22,m,No,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,Yes
+33,m,Yes,1,Yes,Not sure,Yes,Sometimes,Neither easy nor difficult,Maybe,Maybe
+53,m,No,0,Yes,No,Don't know,Not applicable to me,Very easy,Maybe,Yes
+32,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+32,m,No,1,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+55,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,No,1,Don't know,No,Yes,Not applicable to me,Somewhat difficult,Maybe,No
+34,m,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+26,m,Yes,1,No,Not sure,Yes,Never,Somewhat difficult,Yes,Maybe
+39,m,Yes,1,Yes,Yes,Don't know,Never,Somewhat difficult,Yes,Yes
+32,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Yes
+46,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+52,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+33,other,Yes,1,Don't know,No,Don't know,Not applicable to me,Don't know,No,Maybe
+58,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,Maybe
+30,m,No,1,No,No,Yes,Rarely,Very difficult,No,No
+46,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+45,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,No
+26,f,Yes,1,No,Not sure,No,Not applicable to me,Very difficult,No,No
+22,m,Yes,1,Yes,Yes,Yes,Rarely,Don't know,No,No
+21,m,Yes,0,Don't know,Not sure,No,Not applicable to me,Somewhat easy,No,No
+34,m,No,0,Don't know,No,Yes,Not applicable to me,Don't know,No,Yes
+25,f,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Maybe,Yes
+27,m,Yes,1,Yes,Not sure,Yes,Often,Very easy,Maybe,Maybe
+25,f,Yes,1,Yes,Not sure,Don't know,Never,Neither easy nor difficult,No,No
+33,m,I don't know,1,Yes,Yes,Yes,Never,Neither easy nor difficult,Yes,Maybe
+26,f,I don't know,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+36,f,Yes,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,No
+26,m,I don't know,1,No,No,Don't know,Rarely,Neither easy nor difficult,No,No
+34,m,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+34,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Maybe
+25,m,I don't know,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Maybe,No
+33,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+27,f,Yes,0,No,Yes,No,Not applicable to me,Very difficult,Maybe,Maybe
+24,f,No,1,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+47,f,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+37,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+35,other,I don't know,1,Don't know,No,Don't know,Never,Neither easy nor difficult,Maybe,Maybe
+30,m,I don't know,1,Yes,Yes,Yes,Often,Very difficult,No,No
+42,m,No,0,Yes,No,Yes,Not applicable to me,Somewhat easy,No,Maybe
+36,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+31,m,I don't know,0,Yes,No,Yes,Not applicable to me,Very easy,No,Yes
+28,f,I don't know,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+36,f,I don't know,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Yes,Yes
+36,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Maybe
+32,m,Yes,1,Don't know,No,Don't know,Rarely,Don't know,No,No
+42,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+41,f,No,0,Yes,No,Don't know,Never,Somewhat easy,No,Maybe
+36,m,No,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+23,m,Yes,1,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+54,f,Yes,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,No
+34,f,No,0,Don't know,Not sure,Yes,Not applicable to me,Neither easy nor difficult,Yes,Maybe
+36,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+27,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+32,m,Yes,1,Yes,Yes,Don't know,Never,Somewhat easy,Maybe,Maybe
+21,m,I don't know,1,Yes,Yes,No,Sometimes,Very difficult,Maybe,No
+44,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+33,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Yes
+38,m,Yes,1,Yes,No,Yes,Sometimes,Very difficult,No,No
+38,m,Yes,0,Yes,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,f,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+22,f,I don't know,1,Don't know,No,No,Sometimes,Very difficult,No,No
+33,other,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,f,Yes,0,Don't know,No,Don't know,Not applicable to me,Very difficult,No,Yes
+55,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+66,m,Yes,1,No,No,Don't know,Rarely,Somewhat difficult,Yes,No
+25,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+22,m,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+29,m,No,0,No,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+33,m,No,1,No,No,No,Sometimes,Somewhat easy,No,Yes
+27,m,I don't know,0,No,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+44,m,I don't know,1,Don't know,No,Don't know,Never,Somewhat difficult,No,Maybe
+38,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+32,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,No
+59,f,No,0,Yes,Not sure,No,Not applicable to me,Very difficult,Maybe,No
+43,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+55,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+32,m,Yes,1,Yes,Yes,Don't know,Sometimes,Neither easy nor difficult,Yes,Yes
+41,m,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+38,f,Yes,1,No,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+46,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+43,m,Yes,1,No,No,Yes,Rarely,Somewhat difficult,Yes,Maybe
+29,f,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Yes
+42,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+25,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Maybe
+49,m,No,0,Yes,Yes,No,Sometimes,Somewhat easy,Maybe,Yes
+36,m,Yes,1,No,No,Don't know,Sometimes,Don't know,No,No
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+37,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+23,f,Yes,0,Not eligible for coverage / N/A,Yes,Yes,Rarely,Somewhat difficult,No,No
+37,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+42,m,No,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+32,m,Yes,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,Yes
+28,m,I don't know,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Neither easy nor difficult,No,Maybe
+29,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,No,No
+35,m,No,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Yes,Yes
+31,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+46,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+19,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,I don't know,0,Not eligible for coverage / N/A,Not sure,Yes,Not applicable to me,Somewhat easy,Yes,Yes
+31,m,I don't know,0,Yes,Not sure,Yes,Rarely,Somewhat easy,Yes,Yes
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,m,No,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+34,f,Yes,1,Don't know,Not sure,Yes,Never,Very easy,Yes,Yes
+39,f,Yes,1,Yes,Yes,Don't know,Never,Very easy,Maybe,Yes
+29,f,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+29,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,Maybe
+63,m,Yes,1,Yes,Not sure,Yes,Never,Very easy,Yes,Yes
+45,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+32,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+44,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,other,Yes,1,No,Not sure,Don't know,Often,Very difficult,No,No
+39,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+55,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+33,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+19,m,No,0,No,No,No,Not applicable to me,Very easy,Yes,Yes
+40,m,Yes,0,Yes,No,Yes,Rarely,Somewhat easy,No,No
+49,f,Yes,1,Yes,Yes,Yes,Never,Very easy,Maybe,Yes
+27,f,I don't know,0,Not eligible for coverage / N/A,Not sure,Yes,Not applicable to me,Very easy,Yes,Yes
+39,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,No,No
+35,m,No,1,Don't know,Not sure,Yes,Never,Neither easy nor difficult,Yes,Yes
+35,m,I don't know,0,Don't know,No,Don't know,Rarely,Don't know,Maybe,Maybe
+42,f,I don't know,1,Yes,Not sure,Don't know,Rarely,Very difficult,Maybe,No
+35,m,No,0,Yes,Yes,Yes,Not applicable to me,Very easy,Maybe,Yes
+31,f,I don't know,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Maybe,Yes
+44,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+39,m,I don't know,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+32,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+45,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+31,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+47,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+29,m,Yes,1,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+20,m,Yes,1,Yes,No,Don't know,Never,Don't know,Yes,Yes
+34,m,Yes,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Maybe
+33,other,No,1,Not eligible for coverage / N/A,Not sure,Yes,Rarely,Very easy,Yes,Yes
+56,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+35,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+36,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+30,m,Yes,0,Yes,Yes,No,Not applicable to me,Somewhat easy,No,No
+44,f,Yes,1,Yes,Not sure,Yes,Rarely,Neither easy nor difficult,Maybe,No
+23,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Maybe,No
+46,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+33,f,Yes,1,Yes,Yes,Don't know,Never,Very easy,Yes,Yes
+32,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,No
+45,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+26,m,I don't know,1,No,No,Don't know,Never,Neither easy nor difficult,Yes,Yes
+32,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Maybe,No
+44,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+42,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,Yes,Yes
+28,f,Yes,1,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+31,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+29,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,No
+43,f,Yes,1,Yes,Yes,Yes,Rarely,Don't know,Maybe,Maybe
+28,m,No,0,Don't know,Not sure,Don't know,Never,Very easy,Maybe,Yes
+42,other,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,m,Yes,1,Yes,Not sure,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+30,m,No,1,Yes,Yes,Yes,Never,Somewhat easy,Maybe,No
+51,f,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+48,f,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,No
+39,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,No,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+37,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,Yes
+33,m,I don't know,1,Yes,No,Don't know,Sometimes,Neither easy nor difficult,Yes,Maybe
+21,m,No,1,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Yes
+25,m,Yes,1,Yes,Not sure,Don't know,Rarely,Very difficult,No,No
+40,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat difficult,Maybe,No
+30,f,Yes,1,No,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+27,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+25,m,No,0,No,No,No,Never,Very easy,Maybe,No
+38,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Yes,Maybe
+24,m,Yes,1,Don't know,No,Don't know,Rarely,Don't know,Maybe,Yes
+23,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Yes
+39,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+26,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Neither easy nor difficult,Yes,No
+43,m,No,0,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,No,No
+30,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+35,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+40,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Very difficult,No,No
+33,f,Yes,1,Yes,No,Don't know,Not applicable to me,Very difficult,No,No
+35,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+22,m,I don't know,0,No,No,Don't know,Not applicable to me,Don't know,No,No
+28,m,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+39,m,Yes,1,Yes,Yes,No,Sometimes,Very difficult,No,No
+33,m,I don't know,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+25,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+41,f,Yes,1,Don't know,No,Don't know,Rarely,Don't know,No,No
+30,f,Yes,0,Yes,Not sure,Don't know,Rarely,Somewhat easy,No,No
+42,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+52,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+30,m,No,0,No,No,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+35,m,I don't know,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Maybe,Yes
+24,m,No,1,Don't know,No,Don't know,Not applicable to me,Don't know,Maybe,No
+39,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+34,m,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Maybe
+32,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+25,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+43,m,I don't know,0,No,No,No,Often,Very difficult,No,No
+39,m,No,1,Yes,No,Yes,Not applicable to me,Very difficult,No,Maybe
+35,m,Yes,0,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+34,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+38,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+26,f,I don't know,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+24,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+27,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Very difficult,No,No
+25,m,No,1,Yes,Yes,Yes,Never,Neither easy nor difficult,Maybe,No
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+33,m,Yes,0,Yes,Not sure,Yes,Not applicable to me,Neither easy nor difficult,No,Maybe
+34,m,No,1,No,Not sure,Yes,Sometimes,Somewhat difficult,No,No
+27,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+33,m,Yes,1,Yes,No,Don't know,Sometimes,Very easy,No,Maybe
+50,m,Yes,1,Yes,Not sure,Don't know,Often,Somewhat easy,Yes,Yes
+54,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+32,f,I don't know,1,Yes,Not sure,Yes,Sometimes,Very difficult,Yes,No
+39,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Maybe,Maybe
+36,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+34,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Maybe
+31,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Yes
+36,m,Yes,1,No,Not sure,Don't know,Never,Somewhat easy,Maybe,Yes
+48,m,I don't know,0,Don't know,Not sure,Yes,Sometimes,Very easy,Yes,Yes
+31,m,Yes,1,Don't know,No,Don't know,Sometimes,Very easy,Maybe,Yes
+32,m,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+32,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+31,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+28,f,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Rarely,Very easy,Maybe,Yes
+28,m,Yes,1,Don't know,No,Don't know,Not applicable to me,Very difficult,No,No
+33,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,No,Maybe
+33,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+59,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+33,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+37,m,I don't know,1,Don't know,No,Don't know,Rarely,Very difficult,Maybe,Maybe
+27,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+39,m,No,0,No,No,Don't know,Never,Don't know,Maybe,Maybe
+50,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+34,f,I don't know,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+50,m,No,0,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+31,f,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+39,m,Yes,0,Yes,Yes,No,Rarely,Very easy,No,No
+46,m,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+28,m,No,0,Don't know,No,Don't know,Rarely,Somewhat easy,Maybe,Yes
+32,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Neither easy nor difficult,No,No
+65,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+37,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+41,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+38,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+51,m,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Yes,Yes
+29,m,I don't know,1,Don't know,No,Yes,Not applicable to me,Neither easy nor difficult,Yes,Yes
+37,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+32,m,Yes,0,No,Not sure,No,Rarely,Very easy,Yes,Yes
+31,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+52,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,Maybe
+31,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+38,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+35,m,I don't know,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+29,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+63,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+47,f,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+43,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+38,m,No,0,No,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+27,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,No,Yes
+40,f,Yes,0,Don't know,No,Yes,Not applicable to me,Don't know,No,Yes
+32,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+43,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,f,I don't know,0,Yes,Yes,Yes,Never,Somewhat difficult,Maybe,Maybe
+46,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+42,m,Yes,0,No,Yes,Don't know,Not applicable to me,Somewhat easy,No,No
+31,m,Yes,1,No,Yes,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+37,f,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+30,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+35,m,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Rarely,Very easy,Yes,Yes
+24,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,Yes
+23,m,No,0,No,No,No,Sometimes,Don't know,No,No
+39,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+38,m,No,0,No,Not sure,Yes,Not applicable to me,Very easy,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,No,Maybe
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+54,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,f,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+32,f,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Very easy,No,Maybe
+39,m,I don't know,0,No,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+21,other,Yes,1,No,Yes,No,Rarely,Somewhat easy,Maybe,Maybe
+31,m,Yes,0,Yes,Yes,No,Not applicable to me,Very easy,Maybe,Yes
+30,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,No
+25,f,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat difficult,Maybe,Maybe
+26,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat difficult,Yes,Maybe
+30,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+30,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Yes
+31,m,No,0,Don't know,Not sure,Yes,Not applicable to me,Very easy,Yes,Yes
+32,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+45,f,Yes,1,No,Not sure,Don't know,Rarely,Somewhat difficult,Maybe,Yes
+29,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat easy,No,No
+28,f,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very easy,No,Maybe
+38,m,Yes,0,Yes,No,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+38,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+34,m,Yes,1,Don't know,Not sure,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+36,m,I don't know,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+23,m,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Maybe,Yes
+40,f,Yes,1,Yes,Not sure,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+39,m,No,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+33,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+32,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+32,m,Yes,0,Yes,No,Yes,Rarely,Somewhat easy,No,Maybe
+27,m,Yes,1,Yes,Yes,Yes,Sometimes,Very easy,Maybe,Yes
+33,m,No,1,No,No,Don't know,Never,Don't know,No,No
+34,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Yes
+38,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+39,m,No,0,Yes,Not sure,Yes,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+35,m,No,0,Yes,Not sure,Yes,Not applicable to me,Very easy,Maybe,Maybe
+34,m,No,0,Don't know,No,Yes,Never,Somewhat easy,Yes,Maybe
+44,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+42,m,No,1,Yes,Not sure,Don't know,Sometimes,Very easy,Yes,Maybe
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,Maybe
+55,m,Yes,0,Yes,No,No,Not applicable to me,Somewhat difficult,Maybe,Yes
+46,m,Yes,1,No,Yes,Don't know,Sometimes,Somewhat easy,No,Maybe
+33,m,Yes,1,Yes,Yes,Yes,Rarely,Somewhat difficult,Yes,Yes
+30,m,Yes,1,Yes,Not sure,Yes,Never,Neither easy nor difficult,Yes,Yes
+30,m,Yes,1,No,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+31,f,I don't know,1,Yes,Yes,Don't know,Rarely,Don't know,No,No
+38,m,No,1,Yes,Not sure,Yes,Sometimes,Very easy,Maybe,Yes
+30,f,Yes,0,Yes,Yes,Yes,Never,Somewhat difficult,Yes,Yes
+32,m,Yes,1,Yes,Yes,Don't know,Never,Somewhat easy,Yes,Yes
+32,m,I don't know,1,No,Not sure,Don't know,Often,Neither easy nor difficult,No,No
+47,m,Yes,1,Yes,No,Don't know,Never,Very difficult,Maybe,Maybe
+39,m,I don't know,0,No,Not sure,Yes,Never,Very easy,Maybe,Yes
+35,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Very difficult,No,No
+36,m,No,1,Yes,Yes,Don't know,Sometimes,Very difficult,No,No
+38,f,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,Maybe
+30,m,I don't know,1,Don't know,Not sure,Yes,Sometimes,Don't know,Maybe,No
+33,m,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+22,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,No
+35,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+26,m,I don't know,1,Don't know,No,Don't know,Never,Neither easy nor difficult,Maybe,Yes
+34,m,No,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Yes,Yes
+40,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,m,No,0,No,Not sure,Don't know,Often,Don't know,Yes,Yes
+43,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+20,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+30,f,Yes,1,Don't know,No,Don't know,Often,Neither easy nor difficult,Yes,Yes
+32,m,Yes,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+35,m,No,0,Yes,Yes,Yes,Not applicable to me,Neither easy nor difficult,Maybe,Yes
+29,m,No,0,Yes,No,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+29,m,I don't know,0,No,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+30,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,m,Yes,0,Don't know,No,Yes,Rarely,Somewhat difficult,No,No
+38,m,Yes,1,Yes,Not sure,Yes,Never,Very easy,Yes,Yes
+30,m,Yes,1,Yes,No,Don't know,Sometimes,Somewhat easy,Yes,Yes
+26,m,Yes,0,No,No,Don't know,Sometimes,Somewhat easy,No,Maybe
+27,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+24,m,No,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+35,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,No
+38,m,No,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Yes
+36,other,No,1,Yes,Yes,Yes,Sometimes,Very easy,No,No
+34,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,m,I don't know,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+25,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+32,f,No,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Yes,Yes
+32,f,Yes,0,No,Not sure,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+37,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+28,m,No,1,Don't know,Not sure,Yes,Never,Somewhat easy,Maybe,Yes
+34,f,I don't know,1,Yes,Yes,Yes,Never,Somewhat easy,Maybe,Maybe
+40,f,Yes,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,No,Maybe
+45,m,I don't know,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,No,No
+31,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+30,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+47,f,No,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Yes,Yes
+48,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+44,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+29,m,Yes,1,Not eligible for coverage / N/A,No,Don't know,Sometimes,Very difficult,No,Maybe
+52,m,No,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,Yes
+34,f,No,0,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+34,m,No,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Maybe,Yes
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,m,I don't know,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+40,m,Yes,0,Yes,Yes,Yes,Sometimes,Very easy,Yes,Yes
+26,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+35,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Yes
+43,f,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+36,f,I don't know,1,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+32,f,No,0,Yes,Yes,Yes,Not applicable to me,Don't know,Maybe,Yes
+36,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+38,m,Yes,1,No,Not sure,Don't know,Sometimes,Very difficult,No,No
+35,m,No,1,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Maybe
+35,f,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+45,m,Yes,1,Yes,Not sure,Don't know,Often,Very difficult,Maybe,Maybe
+47,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+27,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+26,m,Yes,1,Don't know,No,Don't know,Sometimes,Neither easy nor difficult,No,No
+51,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+25,m,Yes,1,No,No,No,Often,Very difficult,No,No
+41,m,No,0,No,Not sure,No,Not applicable to me,Don't know,No,No
+34,m,No,0,Yes,Yes,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+43,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Very difficult,Yes,No
+33,m,Yes,0,Don't know,No,Don't know,Rarely,Somewhat difficult,Maybe,Yes
+37,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+27,f,Yes,1,No,Not sure,Don't know,Rarely,Very difficult,No,No
+54,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+38,m,Yes,0,Don't know,Not sure,Don't know,Rarely,Very easy,No,No
+42,m,I don't know,1,No,No,Don't know,Sometimes,Don't know,Yes,Maybe
+30,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+43,m,Yes,1,Yes,Not sure,Yes,Never,Somewhat easy,Maybe,Yes
+33,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+37,f,Yes,0,Not eligible for coverage / N/A,Not sure,No,Not applicable to me,Somewhat easy,Yes,Yes
+25,m,No,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+27,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Never,Somewhat difficult,No,No
+27,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,No,1,Yes,No,Yes,Sometimes,Don't know,No,No
+35,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,m,No,0,No,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+31,other,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Somewhat difficult,No,No
+31,m,No,0,Don't know,Not sure,Yes,Sometimes,Somewhat easy,Maybe,Maybe
+32,m,No,1,Yes,No,Yes,Sometimes,Somewhat easy,Yes,Yes
+33,m,No,1,No,No,Don't know,Rarely,Very easy,No,Maybe
+56,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+43,m,Yes,1,Yes,Not sure,No,Sometimes,Somewhat difficult,Maybe,No
+49,m,I don't know,1,Yes,Not sure,Yes,Rarely,Very easy,Maybe,Yes
+35,m,No,1,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Yes
+53,m,No,1,Yes,Yes,Yes,Sometimes,Very difficult,Yes,No
+45,m,Yes,1,Don't know,Not sure,No,Rarely,Don't know,No,Maybe
+40,m,I don't know,1,Yes,No,Don't know,Never,Very difficult,No,No
+52,m,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Don't know,No,Maybe
+30,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+41,m,No,0,Yes,Yes,Yes,Never,Don't know,Maybe,Maybe
+31,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+31,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+24,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+44,m,Yes,1,No,Not sure,Don't know,Rarely,Somewhat easy,No,Maybe
+37,m,Yes,1,Yes,No,Don't know,Rarely,Very difficult,Maybe,Maybe
+22,m,Yes,0,No,Not sure,Don't know,Rarely,Somewhat difficult,No,No
+31,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,No,Maybe
+36,f,I don't know,0,No,Not sure,Don't know,Not applicable to me,Don't know,No,No
+28,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+25,f,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+49,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+22,f,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Very easy,Yes,Yes
+43,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+33,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+36,f,I don't know,1,Yes,Yes,Don't know,Sometimes,Very difficult,No,No
+26,f,Yes,1,Yes,Not sure,Don't know,Rarely,Very difficult,No,No
+43,m,Yes,1,Yes,Not sure,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+21,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+39,m,Yes,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,Yes
+46,m,I don't know,1,Yes,Not sure,Don't know,Rarely,Neither easy nor difficult,Yes,Maybe
+32,m,Yes,0,Not eligible for coverage / N/A,No,No,Sometimes,Somewhat difficult,Maybe,Maybe
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+39,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+44,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+36,m,Yes,1,Yes,Not sure,Yes,Sometimes,Neither easy nor difficult,No,No
+31,f,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+30,other,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+36,m,Yes,1,Yes,Not sure,Yes,Rarely,Very difficult,Maybe,No
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+23,m,No,0,No,Not sure,Yes,Not applicable to me,Somewhat difficult,No,No
+23,m,I don't know,0,Yes,Not sure,Yes,Sometimes,Somewhat easy,No,No
+30,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+34,m,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+49,f,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+25,m,I don't know,0,No,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,No
+39,m,No,0,No,No,Don't know,Sometimes,Very difficult,Maybe,Maybe
+37,m,No,0,No,Not sure,Yes,Never,Somewhat easy,No,No
+26,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+41,m,Yes,1,Don't know,Yes,Don't know,Rarely,Neither easy nor difficult,Maybe,No
+28,m,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,Maybe,Yes
+33,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Yes,Never,Neither easy nor difficult,Maybe,Maybe
+28,m,Yes,1,Don't know,Not sure,Don't know,Often,Very easy,No,Yes
+47,m,Yes,1,No,Yes,No,Often,Neither easy nor difficult,No,No
+25,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+51,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Maybe,Yes
+26,m,No,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+24,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+33,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+32,f,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,No,No
+57,m,No,0,Yes,No,Yes,Not applicable to me,Very difficult,No,No
+39,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Maybe,Yes
+26,f,Yes,1,No,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+38,m,Yes,0,Don't know,No,Yes,Not applicable to me,Don't know,No,No
+33,m,Yes,0,Yes,No,Don't know,Rarely,Very difficult,Yes,Maybe
+30,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Don't know,No,Maybe
+25,f,Yes,1,Don't know,Not sure,Don't know,Often,Somewhat difficult,Maybe,Maybe
+40,m,Yes,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Yes,Yes
+26,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+34,m,Yes,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,Yes,Maybe
+46,f,Yes,1,Yes,Yes,Don't know,Rarely,Don't know,No,No
+31,f,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Never,Very difficult,No,No
+42,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+30,m,No,0,Don't know,No,Don't know,Not applicable to me,Don't know,Yes,Yes
+26,other,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+29,m,No,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+31,m,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Yes,Yes
+40,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Somewhat easy,Yes,Yes
+39,m,I don't know,1,Yes,Not sure,Don't know,Sometimes,Very easy,Yes,Yes
+37,m,No,0,Yes,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+27,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very easy,Yes,Yes
+45,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,No,No
+29,m,Yes,0,Don't know,No,Yes,Not applicable to me,Very easy,Maybe,Maybe
+47,f,No,0,Yes,No,Yes,Not applicable to me,Very easy,Yes,Yes
+33,m,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Yes,Yes
+32,m,No,0,Don't know,No,Yes,Not applicable to me,Don't know,No,No
+29,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Yes,Yes
+36,m,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat easy,Maybe,Maybe
+35,f,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,No
+40,m,Yes,0,Yes,No,Don't know,Rarely,Very easy,Maybe,Yes
+36,m,Yes,1,Yes,Not sure,Don't know,Often,Very difficult,No,No
+39,f,I don't know,1,Don't know,No,Don't know,Not applicable to me,Don't know,No,No
+38,m,No,0,Yes,No,Yes,Never,Somewhat easy,Maybe,Yes
+23,m,I don't know,1,Don't know,Not sure,Yes,Rarely,Very easy,Yes,Yes
+29,m,Yes,0,No,No,No,Not applicable to me,Neither easy nor difficult,No,No
+38,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+34,f,Yes,1,Yes,Yes,Don't know,Rarely,Very difficult,Maybe,Maybe
+28,m,Yes,1,No,Not sure,Don't know,Sometimes,Very easy,No,No
+38,m,Yes,1,No,Not sure,Yes,Often,Very easy,Yes,Yes
+25,f,I don't know,1,Yes,Yes,Yes,Not applicable to me,Very difficult,No,No
+36,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+57,f,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Very difficult,No,No
+46,m,Yes,1,Don't know,No,Don't know,Never,Very difficult,No,No
+49,m,Yes,1,Yes,Yes,Don't know,Rarely,Very difficult,No,No
+34,m,No,1,Don't know,No,Yes,Sometimes,Neither easy nor difficult,No,Maybe
+43,m,No,0,Don't know,No,Yes,Not applicable to me,Very easy,Maybe,Yes
+35,m,No,0,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+32,m,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,other,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Very easy,No,No
+33,m,Yes,1,Yes,Yes,Don't know,Never,Very difficult,Maybe,Maybe
+28,m,Yes,0,Don't know,No,Yes,Never,Somewhat easy,Yes,Yes
+48,m,Yes,0,Yes,Not sure,Yes,Rarely,Somewhat easy,Maybe,Yes
+33,f,I don't know,1,Yes,Yes,Don't know,Sometimes,Very difficult,Maybe,Maybe
+40,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very easy,No,Maybe
+22,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+22,f,Yes,1,No,No,Don't know,Sometimes,Somewhat difficult,No,No
+23,f,I don't know,1,Yes,Yes,Yes,Rarely,Somewhat easy,Maybe,No
+33,m,Yes,1,No,Not sure,Don't know,Rarely,Somewhat easy,Yes,Maybe
+29,m,I don't know,1,Don't know,Not sure,No,Sometimes,Very difficult,Maybe,No
+32,m,No,1,Yes,No,Don't know,Rarely,Neither easy nor difficult,Yes,Maybe
+43,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,No,No
+49,m,Yes,1,Yes,No,Don't know,Rarely,Very easy,Yes,Yes
+44,m,No,0,No,No,Don't know,Not applicable to me,Very easy,Maybe,Yes
+29,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+27,m,Yes,0,No,No,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Maybe
+43,f,Yes,0,No,Not sure,Don't know,Not applicable to me,Very difficult,Maybe,Yes
+30,f,No,1,Yes,Yes,Don't know,Never,Don't know,No,Maybe
+33,f,Yes,1,Yes,No,Don't know,Rarely,Somewhat difficult,Maybe,Yes
+27,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+26,f,Yes,1,Don't know,No,Yes,Sometimes,Somewhat difficult,No,No
+47,m,Yes,1,Don't know,Yes,Don't know,Rarely,Somewhat difficult,No,Yes
+30,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+39,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+36,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,No
+34,m,Yes,1,No,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+25,f,Yes,1,Yes,No,Don't know,Sometimes,Very difficult,No,No
+28,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Somewhat difficult,Maybe,No
+38,m,Yes,1,Yes,Yes,No,Rarely,Somewhat easy,Yes,Yes
+39,m,No,0,Yes,No,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+32,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat difficult,Maybe,Maybe
+27,f,Yes,1,Don't know,Not sure,Don't know,Never,Somewhat difficult,No,Maybe
+31,f,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+30,f,No,0,Don't know,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+34,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+26,m,Yes,0,Don't know,No,Don't know,Not applicable to me,Don't know,No,Maybe
+27,f,No,1,Yes,Not sure,No,Rarely,Somewhat easy,Maybe,No
+29,m,No,1,Don't know,No,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+37,f,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+49,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+39,m,No,0,Don't know,No,Don't know,Not applicable to me,Somewhat easy,No,No
+42,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+28,m,I don't know,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,No
+33,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+30,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+70,m,I don't know,1,Yes,Yes,Yes,Never,Neither easy nor difficult,Yes,Yes
+25,m,Yes,1,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,No,Maybe
+45,m,No,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,Yes,Yes
+63,f,I don't know,1,Yes,Yes,Yes,Never,Neither easy nor difficult,Yes,Yes
+40,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Maybe
+39,m,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Maybe,Maybe
+31,f,Yes,1,Yes,No,Don't know,Sometimes,Somewhat easy,Maybe,Maybe
+34,m,I don't know,0,No,Not sure,Don't know,Never,Very difficult,No,No
+44,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+45,m,No,0,Not eligible for coverage / N/A,No,Don't know,Sometimes,Somewhat easy,Maybe,Yes
+43,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,Yes,Yes
+29,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+27,other,Yes,1,Yes,Yes,Yes,Never,Somewhat easy,Maybe,Yes
+37,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,Maybe,Yes
+41,other,Yes,1,Yes,Yes,Don't know,Sometimes,Don't know,Maybe,Maybe
+30,f,Yes,1,Yes,Yes,Don't know,Rarely,Neither easy nor difficult,No,No
+28,m,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+28,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,No
+39,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+22,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+31,m,I don't know,0,Yes,No,Don't know,Not applicable to me,Very easy,Maybe,Yes
+29,m,I don't know,0,No,Not sure,No,Not applicable to me,Somewhat difficult,No,No
+33,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,No,No
+37,m,No,1,Don't know,No,Don't know,Sometimes,Very easy,Maybe,Maybe
+42,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+31,m,Yes,1,Don't know,No,Yes,Often,Somewhat easy,Yes,Yes
+34,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+49,f,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+29,m,Yes,0,Yes,Yes,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+40,m,No,1,Yes,Yes,Don't know,Sometimes,Very easy,Maybe,Maybe
+46,f,Yes,1,Don't know,No,Yes,Sometimes,Somewhat easy,Maybe,Yes
+31,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+43,m,No,0,Yes,No,Yes,Sometimes,Very easy,Maybe,Yes
+45,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+32,m,No,0,No,No,Don't know,Rarely,Don't know,No,No
+38,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+40,m,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Maybe,No
+38,m,I don't know,1,No,Not sure,Don't know,Sometimes,Neither easy nor difficult,Maybe,Maybe
+32,m,I don't know,1,No,Not sure,Don't know,Sometimes,Very difficult,Maybe,Maybe
+37,m,No,0,Don't know,Not sure,No,Sometimes,Somewhat difficult,No,No
+24,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+25,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+24,m,Yes,0,No,No,Don't know,Not applicable to me,Very easy,Maybe,Yes
+34,f,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+55,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+32,m,Yes,1,Yes,Yes,Don't know,Never,Neither easy nor difficult,Maybe,Maybe
+29,m,No,0,No,Not sure,Don't know,Not applicable to me,Very easy,No,No
+20,m,No,0,Not eligible for coverage / N/A,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+41,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Somewhat difficult,Maybe,Yes
+33,f,Yes,1,Yes,Yes,Yes,Never,Very easy,Yes,Yes
+25,m,Yes,1,Don't know,No,Don't know,Often,Somewhat easy,Maybe,Yes
+29,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,other,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat difficult,Yes,Yes
+39,m,No,0,Don't know,Not sure,Don't know,Never,Don't know,Yes,Yes
+39,m,Yes,0,Yes,Yes,Yes,Not applicable to me,Somewhat easy,No,No
+44,m,I don't know,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+30,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,Yes,0,No,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+37,m,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Very easy,Yes,Yes
+42,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+35,m,I don't know,0,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+30,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,No,Maybe
+30,m,No,0,Yes,No,Don't know,Not applicable to me,Don't know,No,No
+33,m,Yes,1,Yes,No,Don't know,Not applicable to me,Very difficult,Maybe,No
+31,m,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+39,f,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat difficult,No,No
+27,m,No,0,No,No,Yes,Sometimes,Don't know,Yes,Yes
+34,m,No,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+31,m,No,0,No,Not sure,Don't know,Not applicable to me,Don't know,No,No
+30,f,Yes,1,Yes,Yes,Don't know,Sometimes,Very difficult,Maybe,No
+34,m,Yes,1,Yes,No,Yes,Rarely,Very easy,Maybe,Yes
+20,f,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+39,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+50,f,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,No,No
+22,m,Yes,0,No,No,No,Often,Very difficult,No,No
+41,m,I don't know,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,No,Maybe
+37,m,No,0,No,No,Don't know,Sometimes,Somewhat easy,Maybe,No
+32,m,Yes,1,Yes,Yes,Yes,Rarely,Very easy,No,Maybe
+26,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+38,m,Yes,0,Yes,No,Yes,Rarely,Somewhat easy,Yes,Yes
+21,m,Yes,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+27,m,Yes,1,Yes,Not sure,Don't know,Rarely,Don't know,No,No
+37,f,Yes,1,No,Not sure,No,Rarely,Very difficult,No,No
+45,m,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+26,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,f,Yes,0,Don't know,No,Don't know,Not applicable to me,Very difficult,Maybe,Yes
+21,m,Yes,1,No,No,Don't know,Sometimes,Somewhat difficult,No,No
+21,m,I don't know,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,No,No
+29,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+46,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat easy,No,No
+28,m,Yes,1,Yes,Yes,Don't know,Sometimes,Somewhat easy,Yes,Yes
+37,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+44,m,No,0,Yes,Not sure,Yes,Not applicable to me,Neither easy nor difficult,No,No
+45,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+35,f,I don't know,1,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+39,m,Yes,1,Yes,Yes,Yes,Sometimes,Don't know,Maybe,Yes
+37,f,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,No,Maybe
+35,m,No,0,No,No,Don't know,Not applicable to me,Neither easy nor difficult,No,No
+29,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat difficult,No,No
+49,f,I don't know,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+21,m,I don't know,1,Don't know,No,Don't know,Rarely,Neither easy nor difficult,Maybe,Maybe
+26,f,Yes,1,Yes,Yes,Yes,Sometimes,Very difficult,Maybe,Maybe
+35,m,Yes,1,Yes,Not sure,Yes,Sometimes,Somewhat easy,Yes,Yes
+56,m,No,1,Yes,Yes,Don't know,Never,Somewhat easy,Yes,Yes
+53,f,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+48,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+24,m,No,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+37,m,No,0,No,Not sure,Don't know,Sometimes,Somewhat easy,No,No
+27,f,Yes,1,No,Yes,Don't know,Sometimes,Very difficult,Yes,Maybe
+39,f,Yes,1,Don't know,No,Don't know,Sometimes,Somewhat difficult,Maybe,Yes
+31,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+34,m,Yes,1,Yes,Yes,Don't know,Not applicable to me,Very difficult,No,No
+33,m,Yes,1,No,Not sure,Yes,Rarely,Very easy,Yes,Yes
+22,m,I don't know,0,No,No,No,Sometimes,Somewhat difficult,No,No
+25,f,I don't know,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Somewhat easy,Maybe,Maybe
+34,m,No,0,Don't know,No,Don't know,Not applicable to me,Very easy,Maybe,Maybe
+30,m,Yes,0,Not eligible for coverage / N/A,Not sure,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,No
+37,m,I don't know,1,No,No,Don't know,Sometimes,Somewhat difficult,Maybe,Maybe
+26,m,No,0,No,No,No,Not applicable to me,Somewhat difficult,No,No
+29,f,No,1,Yes,Yes,Don't know,Rarely,Don't know,Maybe,Yes
+29,m,I don't know,1,No,No,No,Sometimes,Very difficult,Maybe,No
+27,m,Yes,1,No,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,No
+27,f,Yes,1,No,No,Don't know,Sometimes,Neither easy nor difficult,No,Yes
+23,m,No,0,Don't know,No,Yes,Not applicable to me,Somewhat easy,Maybe,Yes
+24,f,No,0,Don't know,Yes,Yes,Not applicable to me,Very easy,No,Yes
+22,m,I don't know,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+28,m,No,0,No,No,No,Not applicable to me,Very easy,Yes,Yes
+22,m,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,No,Maybe
+32,m,Yes,0,No,Yes,No,Not applicable to me,Somewhat easy,No,No
+35,f,No,1,Don't know,No,Don't know,Rarely,Somewhat difficult,Yes,Maybe
+26,m,No,1,Yes,Yes,Don't know,Sometimes,Very easy,No,Yes
+31,f,I don't know,1,No,Yes,Don't know,Rarely,Somewhat difficult,No,Maybe
+32,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+37,m,I don't know,1,No,No,No,Not applicable to me,Somewhat difficult,Maybe,Maybe
+24,m,No,1,No,No,Yes,Never,Neither easy nor difficult,Maybe,Maybe
+33,m,No,0,Yes,Yes,Don't know,Not applicable to me,Very easy,Yes,Yes
+28,m,I don't know,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,Yes
+22,f,I don't know,1,Don't know,No,Don't know,Never,Somewhat easy,Maybe,Maybe
+46,m,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,No
+30,m,I don't know,0,Yes,Yes,Don't know,Not applicable to me,Neither easy nor difficult,Maybe,Maybe
+29,m,No,1,Don't know,Not sure,Yes,Often,Somewhat difficult,Maybe,Maybe
+22,m,Yes,0,Don't know,No,Don't know,Sometimes,Somewhat easy,No,No
+24,f,Yes,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+29,f,No,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+30,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+25,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+39,m,No,0,Yes,Not sure,Yes,Not applicable to me,Somewhat difficult,Maybe,Maybe
+31,m,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+25,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+39,m,I don't know,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat difficult,No,Maybe
+31,f,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,No,No
+35,m,Yes,0,Yes,No,Don't know,Not applicable to me,Don't know,Maybe,No
+31,f,No,1,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+23,m,I don't know,1,No,Not sure,Don't know,Sometimes,Very difficult,No,No
+30,m,Yes,1,Yes,Not sure,Don't know,Rarely,Very difficult,No,No
+28,m,Yes,0,Not eligible for coverage / N/A,No,Yes,Not applicable to me,Neither easy nor difficult,Yes,No
+23,f,Yes,0,Yes,No,Don't know,Often,Don't know,No,No
+26,f,Yes,1,Yes,Yes,Yes,Sometimes,Neither easy nor difficult,Maybe,Yes
+24,f,Yes,1,Yes,Yes,Don't know,Rarely,Very difficult,Maybe,Maybe
+32,m,No,0,Yes,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+35,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Don't know,Maybe,Maybe
+30,m,No,0,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Somewhat easy,Yes,Yes
+32,m,No,1,Yes,Not sure,Don't know,Rarely,Somewhat difficult,No,Maybe
+35,m,No,1,Yes,Yes,Don't know,Rarely,Don't know,No,No
+26,f,I don't know,1,Don't know,Yes,Don't know,Rarely,Neither easy nor difficult,No,No
+30,f,Yes,1,Yes,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Yes
+29,m,I don't know,1,Yes,No,Yes,Sometimes,Somewhat difficult,Maybe,No
+39,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Somewhat easy,Yes,Yes
+37,m,Yes,1,Don't know,Not sure,Don't know,Rarely,Neither easy nor difficult,No,Maybe
+35,m,No,0,Yes,No,Don't know,Not applicable to me,Very difficult,No,No
+25,f,Yes,1,Not eligible for coverage / N/A,Yes,No,Sometimes,Don't know,No,No
+22,other,Yes,1,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Neither easy nor difficult,Yes,Maybe
+33,m,Yes,1,Yes,Yes,No,Sometimes,Neither easy nor difficult,Maybe,Maybe
+23,m,Yes,1,Yes,No,Don't know,Rarely,Somewhat difficult,Maybe,No
+29,m,Yes,1,Don't know,Not sure,Don't know,Never,Don't know,Maybe,Maybe
+28,m,Yes,1,Yes,Yes,Don't know,Rarely,Very difficult,No,No
+30,m,Yes,1,Yes,Yes,Don't know,Sometimes,Very easy,Yes,Yes
+28,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Maybe,Yes
+28,f,Yes,1,Yes,Yes,Don't know,Rarely,Very easy,Yes,Yes
+37,m,Yes,0,Yes,No,Don't know,Not applicable to me,Don't know,Maybe,Yes
+30,m,Yes,0,No,Yes,No,Sometimes,Don't know,Maybe,Yes
+27,m,Yes,1,No,Not sure,Don't know,Often,Somewhat difficult,No,Yes
+29,m,Yes,1,Don't know,Not sure,Don't know,Often,Don't know,Maybe,Maybe
+28,m,I don't know,1,Don't know,Not sure,Don't know,Often,Don't know,No,No
+26,other,Yes,1,No,No,No,Sometimes,Somewhat difficult,No,No
+29,m,Yes,1,Don't know,Not sure,Yes,Rarely,Don't know,No,No
+34,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+36,m,I don't know,1,Yes,Yes,Yes,Rarely,Neither easy nor difficult,Maybe,Yes
+38,m,No,1,Don't know,No,Don't know,Sometimes,Very difficult,No,No
+22,f,No,1,Yes,Not sure,Yes,Often,Very easy,No,No
+24,m,No,0,Not eligible for coverage / N/A,Not sure,Yes,Sometimes,Neither easy nor difficult,Maybe,Maybe
+24,f,Yes,1,Yes,Yes,Yes,Rarely,Somewhat easy,Yes,Yes
+36,f,Yes,1,Yes,Yes,Yes,Rarely,Very difficult,Yes,Maybe
+24,f,Yes,1,Not eligible for coverage / N/A,Not sure,Don't know,Sometimes,Very difficult,Maybe,No
+24,m,No,0,No,No,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+31,m,Yes,1,No,Not sure,Don't know,Not applicable to me,Very difficult,No,No
+39,m,No,0,Yes,Not sure,Don't know,Sometimes,Neither easy nor difficult,No,No
+41,m,Yes,1,Yes,Yes,Yes,Sometimes,Somewhat easy,Yes,No
+29,m,I don't know,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+37,m,I don't know,0,No,No,Yes,Not applicable to me,Very easy,Yes,Maybe
+30,m,No,0,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+24,m,No,0,Yes,Not sure,Don't know,Not applicable to me,Somewhat easy,No,Maybe
+22,f,I don't know,1,Not eligible for coverage / N/A,Not sure,Don't know,Rarely,Somewhat difficult,Maybe,Maybe
+24,m,I don't know,0,Yes,Not sure,Yes,Rarely,Somewhat easy,Maybe,Yes
+26,f,I don't know,1,Don't know,Not sure,Don't know,Rarely,Somewhat easy,Maybe,Maybe
+38,f,Yes,1,Yes,No,Yes,Rarely,Somewhat easy,Yes,Yes
+34,f,Yes,1,Don't know,Not sure,Don't know,Not applicable to me,Don't know,Maybe,Maybe
+56,m,Yes,0,Don't know,Not sure,Don't know,Sometimes,Don't know,Maybe,Maybe
+52,m,Yes,1,Yes,Yes,Don't know,Rarely,Somewhat difficult,Yes,Yes
+30,f,Yes,0,Don't know,Not sure,Don't know,Sometimes,Somewhat difficult,Maybe,Yes
+25,other,I don't know,0,Yes,No,Don't know,Not applicable to me,Very difficult,Maybe,Maybe

@@ -1,0 +1,197 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mental Health Risk Prediction</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root {
+    --bg: #ffe4ec;
+    --card: #ffffff;
+    --muted: #555;
+    --text: #222;
+    --accent: #ff69b4;
+    --accent2: #ff1493;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: Inter, Arial, sans-serif;
+    background: var(--bg); color: var(--text);
+  }
+  .container {
+    max-width: 1000px; margin: 40px auto; padding: 24px;
+  }
+  .header { text-align: center; margin-bottom: 24px; }
+  .title {
+    font-size: 28px; font-weight: 800;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .subtitle { color: var(--muted); margin: 0 }
+  .card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 16px; padding: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  form { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .full { grid-column: 1 / -1; }
+  label { font-size: 13px; font-weight: 600; color: #444; display:block; margin-bottom: 6px; }
+  input, select, textarea {
+    width: 100%; padding: 10px 12px; border-radius: 8px;
+    border: 1px solid #ccc; outline: none;
+  }
+  .help { font-size: 12px; color: #666; margin-top: 6px; }
+  .actions { display:flex; gap:12px; margin-top: 8px; }
+  .btn {
+    padding: 12px 16px; border: 0; border-radius: 10px; cursor: pointer;
+    font-weight: 700; letter-spacing: .3px;
+  }
+  .btn-primary { background: linear-gradient(90deg, var(--accent), var(--accent2)); color: white; }
+  .btn-secondary { background: transparent; border:1px solid #aaa; color: #333; }
+  .footer { text-align:center; color: var(--muted); margin-top: 18px; font-size: 12px; }
+  @media (max-width: 720px) { form { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">Mental Health Risk Prediction</h1>
+      <p class="subtitle">Fill the details below to get wellness suggestions instantly.</p>
+    </div>
+
+    <div class="card">
+      <form method="POST" action="/predict">
+        <!-- Employee Info -->
+        <div class="full">
+          <label>Employee Name</label>
+          <input type="text" id="name" name="name" 
+                 placeholder="e.g., Monika" required pattern="[A-Za-z ]+" />
+        </div>
+        <div class="full">
+          <label>Employee ID</label>
+          <input type="text" name="emp_id" placeholder="e.g., 2390" required pattern="[0-9A-Za-z\-]+" />
+        </div>
+
+        <!-- Model Inputs -->
+        <div>
+          <label>Age</label>
+          <input type="number" name="age" id="age"
+                 min="21" max="60" step="1"
+                 placeholder="e.g., 28" required />
+        </div>
+        <div>
+          <label>Gender</label>
+          <select name="gender" required>
+            <option value="1">Male</option>
+            <option value="0">Female</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Marital Status</label>
+          <select name="marital_status" required>
+            <option value="1">Married</option>
+            <option value="0">Single</option>
+          </select>
+        </div>
+        <div>
+          <label>Work Stress</label>
+          <select name="work_stress" required>
+            <option value="0">Never</option>
+            <option value="1">Sometimes</option>
+            <option value="2">Often</option>
+            <option value="3">Always</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Counselling Support</label>
+          <select name="counselling_support" required>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </div>
+        <div>
+          <label>Confidentiality Assurance</label>
+          <select name="confidentiality_assurance" required>
+            <option value="1">Yes — my answers will be treated confidentially</option>
+            <option value="0">No — I'm not sure how answers will be shared</option>
+          </select>
+          <div class="help">
+            <strong>What this means:</strong> "Yes" means your health answers are kept private (shared only with HR or the wellness team as needed). Choose "No" if you are unsure or concerned about privacy.
+          </div>
+        </div>
+
+        <div>
+          <label>Job Satisfaction</label>
+          <select name="job_satisfaction" required>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </div>
+        <div>
+          <label>Coworkers Support</label>
+          <select name="coworkers" required>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Higher Official Support</label>
+          <select name="supervisor" required>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </div>
+        <div>
+          <label>Leave Policy</label>
+          <select name="leave_policy" required>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </div>
+
+        <div class="full">
+          <label>Promotion in the past year?</label>
+          <select name="promotion" required>
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+          </select>
+        </div>
+
+        <!-- NEW: Mood text (optional) -->
+        <div class="full">
+          <label>Optional: How are you feeling? (1-2 lines)</label>
+          <textarea name="mood_text" rows="2" placeholder="I feel stressed about deadlines..."></textarea>
+        </div>
+
+        <!-- NEW: Private Submission -->
+        <div class="full">
+          <label>
+            <input type="checkbox" name="private_submission" value="1" />
+            Private Submission (Hide my identity)
+          </label>
+          <div class="help">If checked, your name and ID will not be stored publicly or shown on the dashboard.</div>
+        </div>
+
+        <div class="full actions">
+          <button type="submit" class="btn btn-primary">Get Suggestions</button>
+          <a class="btn btn-secondary" href="/dashboard">Go to HR Dashboard</a>
+        </div>
+      </form>
+      <div class="footer">Your data is stored securely for HR review.</div>
+    </div>
+  </div>
+
+  <!-- Validation for Name (alphabets only) -->
+  <script>
+    const nameInput = document.getElementById("name");
+    nameInput.addEventListener("input", function() {
+      this.value = this.value.replace(/[^A-Za-z ]/g, "");
+    });
+  </script>
+</body>
+</html>
