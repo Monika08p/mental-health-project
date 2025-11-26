@@ -1,1 +1,1 @@
-# mental-health-project
+# mental_health_project
