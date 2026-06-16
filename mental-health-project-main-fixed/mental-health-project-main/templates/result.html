@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Prediction Result</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="wrap">
+    <h1>🧠 Wellness Prediction Result</h1>
+
+    <div class="card">
+      <p><strong>Name:</strong> {{ name }}</p>
+      <p><strong>Employee ID:</strong> {{ emp_id }}</p>
+
+      <!-- Risk Display with Colors -->
+      <p>
+        <strong>Risk Level:</strong>
+        <span class="{% if 'Low' in result %}low{% elif 'Medium' in result %}medium{% else %}high{% endif %}">
+          {{ result }}
+        </span>
+      </p>
+
+      <p><strong>Confidence:</strong> {{ confidence }}%</p>
+    </div>
+
+    <!-- Suggestions -->
+    <div class="card">
+      <h3>💡 Suggestions</h3>
+      <ul>
+        {% for s in suggestions %}
+          <li>{{ s }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="actions">
+      <a class="btn btn-primary" href="/">🔄 New Check</a>
+      <a class="btn btn-secondary" href="/dashboard">📊 Go to HR Dashboard</a>
+    </div>
+  </div>
+</body>
+</html>

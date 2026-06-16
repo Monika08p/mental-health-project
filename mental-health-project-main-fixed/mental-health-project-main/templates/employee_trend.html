@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Employee Trend - {{ emp_id }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="wrap">
+    <h1>📈 Trend for: {{ emp_id }}</h1>
+    <div>
+      <a class="btn-secondary" href="/dashboard">Back to HR Dashboard</a>
+    </div>
+
+    <div class="card">
+      <canvas id="trendChart"></canvas>
+    </div>
+
+    <div class="card">
+      <h3>Entries</h3>
+      <table>
+        <thead><tr><th>Date/Time</th><th>Confidence</th><th>Risk</th></tr></thead>
+        <tbody>
+          {% for r in rows %}
+          <tr>
+            <td>{{ r['created_at'] }}</td>
+            <td>{{ r['confidence'] }}%</td>
+            <td>{{ r['risk'] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    const rows = [
+      {% for r in rows %}
+        {"created_at": "{{ r['created_at'] }}", "confidence": {{ r['confidence'] or 0 }}, "risk": "{{ r['risk'] or '' }}"},
+      {% endfor %}
+    ];
+
+    const labels = rows.map(r => r.created_at);
+    const confidences = rows.map(r => r.confidence);
+
+    const ctx = document.getElementById("trendChart").getContext("2d");
+    new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: labels,
+        datasets: [{
+          label: "Confidence (%)",
+          data: confidences,
+          fill: false,
+          tension: 0.2
+        }]
+      },
+      options: { responsive: true, scales: { y: { beginAtZero: true, max: 100 } } }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Panel - Identity Unlock</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <script>
+    function unlock() {
+      const entered = document.getElementById("token").value;
+      const correct = "{{ admin_token }}";
+      if (entered === correct) {
+        document.getElementById("locked").style.display = "none";
+        document.getElementById("unlocked").style.display = "block";
+      } else {
+        alert("Invalid Token! Access Denied.");
+      }
+    }
+
+    function revealAnon(code) {
+      const token = document.getElementById("token").value;
+      if (!token) { alert("Enter admin token first"); return; }
+      fetch(`/admin/reveal?token=${encodeURIComponent(token)}&code=${encodeURIComponent(code)}`)
+        .then(r => {
+          if (!r.ok) throw new Error("Unauthorized or not found");
+          return r.json();
+        })
+        .then(j => {
+          alert(`Revealed: ${j.name} (Emp ID: ${j.emp_id})`);
+          // optionally you could display these in the table (left as an exercise)
+        })
+        .catch(err => alert("Error: " + err.message));
+    }
+  </script>
+</head>
+<body class="container mt-4">
+  <h2>🔒 Admin Panel</h2>
+  <p>Enter admin token to reveal identities or use the Reveal button on requests below.</p>
+
+  <div id="locked" class="card p-3 mb-3">
+    <input type="password" id="token" placeholder="Enter admin token" class="form-control mb-2">
+    <button onclick="unlock()" class="btn btn-primary">Unlock</button>
+  </div>
+
+  <div id="unlocked" style="display:none;" class="mt-4">
+    <h4>Identity Requests (audit log)</h4>
+    <table class="table table-bordered">
+      <thead><tr><th>#</th><th>Anon Code</th><th>Requested By</th><th>Reason</th><th>Requested At</th><th>Action</th></tr></thead>
+      <tbody>
+        {% for req in requests %}
+        <tr>
+          <td>{{ req['id'] }}</td>
+          <td>{{ req['anon_code'] }}</td>
+          <td>{{ req['requested_by'] }}</td>
+          <td>{{ req['reason'] }}</td>
+          <td>{{ req['requested_at'] }}</td>
+          <td><button class="btn btn-sm btn-outline-primary" onclick="revealAnon('{{ req['anon_code'] }}')">Reveal</button></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <h4 class="mt-4">All Records (admin view)</h4>
+    <table class="table table-striped table-bordered">
+      <thead><tr><th>ID</th><th>Created</th><th>Name/Code</th><th>Emp ID</th><th>Risk</th><th>Confidence</th><th>Private?</th></tr></thead>
+      <tbody>
+        {% for r in rows %}
+        <tr>
+          <td>{{ r['id'] }}</td>
+          <td>{{ r['created_at'] }}</td>
+          <td>{% if r['hide_identity'] == 1 %}{{ r['anon_code'] }}{% else %}{{ r['real_name'] if 'real_name' in r.keys() and r['real_name'] else r['anon_code'] }}{% endif %}</td>
+          <td>{% if r['hide_identity'] == 1 %}🔒 Hidden{% else %}{{ r['real_emp_id'] if 'real_emp_id' in r.keys() and r['real_emp_id'] else '' }}{% endif %}</td>
+          <td>{{ r['risk'] }}</td>
+          <td>{{ r['confidence'] }}%</td>
+          <td>{% if r['hide_identity'] == 1 %} ✅ Yes {% else %} ❌ No {% endif %}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

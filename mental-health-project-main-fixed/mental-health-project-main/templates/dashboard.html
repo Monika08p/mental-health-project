@@ -1,0 +1,157 @@
+<!-- dashboard.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>HR Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<style>
+.chart-container { width: 380px; max-width: 90%; margin: 0 auto 16px; }
+.card { padding: 12px; border-radius: 8px; background:#fff; box-shadow:0 4px 8px rgba(0,0,0,0.05); margin-bottom:12px; }
+.request-btn { font-size:12px; padding:6px 8px; border-radius:6px; cursor:pointer; }
+.actions { display:flex; gap:8px; margin-bottom:12px; }
+#recordsTable { width:100%; border-collapse: collapse; margin-top:12px; }
+#recordsTable th, #recordsTable td { border:1px solid #ddd; padding:8px; text-align:left; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>📊 HR Dashboard</h1>
+    <div class="actions">
+      <a class="btn-secondary" href="/">Back to Form</a>
+      <a class="btn-primary" href="/export">Export CSV</a>
+      <a class="btn-primary" href="/male_dashboard">👨 Male Report</a>
+      <a class="btn-primary" href="/female_dashboard">👩 Female Report</a>
+      <a class="btn-secondary" href="/admin">🔒 Admin</a>
+    </div>
+
+    <div class="card">
+      <h3>Overall Risk Distribution</h3>
+      <div class="chart-container">
+        <canvas id="overallChart" width="380" height="280"></canvas>
+      </div>
+      <p><strong>Total employees:</strong> {{ total_count }} — <strong>Male:</strong> {{ male_count }} • <strong>Female:</strong> {{ female_count }}</p>
+    </div>
+
+    <table id="recordsTable" aria-live="polite">
+      <thead>
+        <tr>
+          <th>Date/Time</th>
+          <th>Name / Code</th>
+          <th>Emp ID</th>
+          <th>Age</th>
+          <th>Gender</th>
+          <th>Promotion</th>
+          <th>Risk</th>
+          <th>Confidence</th>
+          <th>Suggestions</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in rows %}
+        <tr>
+          <td>{{ r['created_at'] }}</td>
+          <td>
+            {% if r['hide_identity'] == 1 %}
+              {{ r['anon_code'] }}
+            {% else %}
+              {# if the row has real_name attached (join), prefer that, otherwise show anon_code #}
+              {% if 'real_name' in r.keys() and r['real_name'] %}
+                {{ r['real_name'] }}
+              {% else %}
+                {{ r['anon_code'] }}
+              {% endif %}
+            {% endif %}
+          </td>
+          <td>
+            {% if r['hide_identity'] == 1 %}
+              🔒 Hidden
+            {% else %}
+              {% if 'real_emp_id' in r.keys() and r['real_emp_id'] %}
+                {{ r['real_emp_id'] }}
+              {% else %}
+                {{ r['anon_code'] }}
+              {% endif %}
+            {% endif %}
+          </td>
+          <td>{{ r['age'] }}</td>
+          <td>{{ r['gender'] }}</td>
+          <td>{% if r['promotion'] == 1 %}Yes{% else %}No{% endif %}</td>
+          <td>{{ r['risk'] }}</td>
+          <td>{{ r['confidence'] }}%</td>
+          <td>{{ r['suggestion'] }}</td>
+          <td>
+            <button class="request-btn" data-code="{{ r['anon_code'] }}">Request Identity</button>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.4/socket.io.min.js"></script>
+  <script>
+    // Risk pie
+    const ctx = document.getElementById("overallChart").getContext("2d");
+    const overallChart = new Chart(ctx, {
+      type: "pie",
+      data: {
+        labels: ["High Risk", "Medium Risk", "Low Risk"],
+        datasets: [{
+          data: [{{ high_count }}, {{ medium_count }}, {{ low_count }}],
+          backgroundColor: ["#ff4d4d", "#ff9933", "#4CAF50"]
+        }]
+      },
+      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: "bottom" } } }
+    });
+
+    // Socket client
+    const socket = io();
+    socket.on('new_record', function(payload) {
+      // Prepend row to table
+      const tbody = document.querySelector("#recordsTable tbody");
+      const nameOrCode = payload.anon_code ? payload.anon_code : (payload.name || '');
+      const empId = payload.emp_id || '';
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td>${payload.created_at}</td>
+                      <td>${nameOrCode}</td>
+                      <td>${empId ? empId : '🔒 Hidden'}</td>
+                      <td>${payload.age}</td>
+                      <td>${payload.gender}</td>
+                      <td>${payload.promotion == 1 ? 'Yes' : 'No'}</td>
+                      <td>${payload.risk}</td>
+                      <td>${payload.confidence}%</td>
+                      <td>${payload.suggestion}</td>
+                      <td><button class="request-btn" data-code="${payload.anon_code || ''}">Request Identity</button></td>`;
+      tbody.prepend(tr);
+
+      // Update chart
+      if (payload.risk && payload.risk.includes("High Risk")) overallChart.data.datasets[0].data[0] += 1;
+      else if (payload.risk && payload.risk.includes("Medium Risk")) overallChart.data.datasets[0].data[1] += 1;
+      else overallChart.data.datasets[0].data[2] += 1;
+      overallChart.update();
+    });
+
+    // Request identity handler: logs request (calls /request_identity)
+    document.addEventListener('click', function(e){
+      if (e.target && e.target.matches('.request-btn')) {
+        const code = e.target.getAttribute('data-code');
+        if (!code) { alert("No anon code"); return; }
+        const reason = prompt("Reason for requesting identity (audit log):", "HR follow-up for high risk");
+        if (reason === null) return;
+        fetch('/request_identity', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({anon_code: code, requested_by: "HR", reason})
+        }).then(r => r.json()).then(j => {
+          if (j.status === 'ok') alert("Request logged. Admin will review.");
+          else alert("Error: " + (j.message || ""));
+        }).catch(err => alert("Network error: Could not log request"));
+      }
+    });
+  </script>
+</body>
+</html>
