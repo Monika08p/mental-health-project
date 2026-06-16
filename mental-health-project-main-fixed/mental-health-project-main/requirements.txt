@@ -4,3 +4,4 @@ scikit-learn
 flask
 joblib
 nltk
+Flask-SocketIO
